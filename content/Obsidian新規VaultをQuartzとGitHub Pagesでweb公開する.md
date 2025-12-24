@@ -1,0 +1,8 @@
+- やること
+    - Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する
+    - という記事を
+        - Zenn scrapsに投稿する 
+- 方法
+    - local private Obsidianの作業noteを初学者向けにまとめる
+- モチベ
+    - これで初学者がObsidian新規vaultを楽にweb公開できるといいな
