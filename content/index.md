@@ -1,48 +1,20 @@
 ---
-title: Welcome to Quartz
+title: cat2151's digital garden index
 ---
-編集test中
+# 状況
+- 試験運用中
+- wikinoから移行した直後
 
-以下、wikinoからの転記の検証中
+# 今後の方針
+- noteを気分で追加
+- noteを気分で編集
+- 発生した課題についてnoteを書くか、ここに書く
+    - 好きな場所に書いてあとからリファクタリングすればよい
+## 心理的安全性
+- 間違ってnote破壊しても安心
+    - 好きなrevisionに戻せる
+        - GitHub で版管理されている
 
-# 
-
-[[思いつき]]
-[[PR]]
-[[GitHub Copilot Coding Agent]]
-[[Rust]]
-[[rust-script]]
-[[TDD]]
-[[ステップ実行]]
-[[CI]]
-[[Windows Runner]]
-[[cargo]]
-[[Python]]
-[[dax]]
-[[はてなブログ]]
-[[用途（wikino）]]
-[[PowerShell]]
-[[Shell Script]]
-[[GitHub Actions]]
-[[ダークモード（wikino）]]
-[[よいところ（wikino）]]
-[[プレビュー（wikino）]]
-[[しずかなインターネット]]
-[[TIPS（wikino）]]
-[[wikinoを使ってみる]]
-[[Zenn Scraps]]
-[[link]]
-[[GitHub]]
-[[Zenn scrapsとの使い分け（wikino）]]
-[[逆噴射聡一郎]]
-[[グレッグ・イーガン]]
-[[OSS]]
-[[Spotify]]
-[[Twilog]]
-[[Twitter]]
-[[Bluesky]]
-[[Blueskyねこ部]]
-[[QOL]]
-[[Obsidian Publish]]
-[[Obsidian]]
-[[Obsidianとの使い分け（wikino）]]
+# いろいろ
+- 気分で書く
+- 左上にSNSアイコンを表示したい
