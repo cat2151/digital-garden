@@ -16,9 +16,14 @@ title: cat2151's digital garden index
 
 # なんでも書くコーナー
 - ここに気分で書いてみよう
+- 筆者のアカウントに関する [[link]]
 # どこかMOCに移動するかもしれないコーナー
  - [[Obsidianは2つのVaultを横に並べて編集できる]]
 # そのうちやってみよう
+- バックリンクをページ末尾に表示する
+    - ChatGPTにきくのもよいだろう
+- [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
+- [[OSS]]に関する主観をnoteに（ふわっとしている）
 - [[左上をQuartz 4でなく自分のSNS name等にする]]
 - [[SNS Profile画像 を左上に表示する]]
 - [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
