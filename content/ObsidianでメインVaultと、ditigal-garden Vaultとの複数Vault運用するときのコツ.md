@@ -1,0 +1,3 @@
+- Windows
+     - AutoHotKey
+         - `Win + O` で、直近にアクティブだったVaultのウィンドウをアクティブ化

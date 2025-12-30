@@ -1,0 +1,13 @@
+- 開発中
+    - cat-oscilloscope
+        - [Issues · cat2151/cat-oscilloscope · GitHub](https://github.com/cat2151/cat-oscilloscope/issues)
+        - TODO Blueskyも書いておこう
+- 構想
+    - チップ波形ビジュアライザ
+        - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mb3rzwno3s26)
+        - TODO Blueskyのスレ2も書いておこう
+    - [[WAVLPF]] のブラウザへの移植
+        - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mb3uwtpyu22k)
+- 成果物
+    - ニンテンドー3DS Smile BASIC3
+        - [[WAVLPF]]

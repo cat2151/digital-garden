@@ -8,43 +8,38 @@ title: cat2151's digital garden index
 # 今の方針
 - なんでも書くコーナーに、
     - 気分で書く
-    - それを適宜、Note Refactorでnoteに切り出す
+    - それを適宜、[[Note Refactor]] でnoteに切り出す
 ## 心理的安全性
 - 間違ってnote破壊しても安心
     - 好きなrevisionに戻せる
-        - GitHub で版管理されている
+        - [[GitHub]] で版管理されている
 
 # なんでも書くコーナー
 - ここに気分で書いてみよう
 - 筆者のアカウントに関する [[link]]
-- [[WAVLPF]]
+- [[Audio Programming]]
+- [[BlueSkyフィード Audio Programming を作る]]
 # どこかMOCに移動するかもしれないコーナー
  - [[Obsidianは2つのVaultを横に並べて編集できる]]
- - ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ
-     - Windows
-         - AutoHotKey
-             - `Win + O` で、直近にアクティブだったVaultのウィンドウをアクティブ化
+ - [[ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ]]
+ - [[Quartz syncを日次バッチで自動化する]]
 # そのうちやってみよう
-- Quartz バックリンクをページ末尾に表示する
-    - ChatGPTにきくのもよいだろう
-- Quartz light dark のカラーをデフォルト以外の例えばgreen系にする
-    - モチベ
-        - 経験を得る
-        - 好奇心
+- [[Quartz バックリンクをページ末尾に表示する]]
+- [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
 - [[OSS]]に関する主観をnoteに（ふわっとしている）
 - [[Quartz 左上をQuartz 4でなく自分のSNS name等にする]]
 - [[Quartz SNS Profile画像 を左上に表示する]]
-- [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
+- [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にする]]
+- 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
 # 方針のヒント
-- digital-gardenっぽく進める
+- [[digital garden]] っぽく進める
     - 例
         - 植木鉢
             - noteは鉢植えが育ちかけで芽が出た直後のような状態でもよい
                 - すべてのnoteがあらかじめ大輪の花を咲かせていなくてもよい
                 - 種が播かれた直後で芽が出ていなくてもよい
-- 言葉
-    - note
-        - アトミックノート
-- アトミックノート
+- [[アトミックノート]]
     - アトミックノートにできるところはそうしよう
+- ※定義
+    - noteといったら、ここでは概ね [[digital garden]] 内のそれぞれの [[アトミックノート]] の意味で書いている
