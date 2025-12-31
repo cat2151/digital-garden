@@ -1,3 +1,9 @@
 - モチベ
     - 経験を得る
     - 好奇心
+- 方法
+    - ChatGPTにきいてみましょう
+        - 結果
+            - [ChatGPT - Quartz darkモードMonokai化](https://chatgpt.com/share/69552691-8e44-8010-b696-6509dbbb9fd1)
+    - 次は？
+        - やってみましょう

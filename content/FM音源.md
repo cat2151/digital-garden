@@ -1,0 +1,11 @@
+- Wikipedia
+    - [wikiwand.com/en/articles/Frequency\_modulation\_synthesis](https://www.wikiwand.com/en/articles/Frequency_modulation_synthesis)
+- 2つの方式があり、出る音が違うので注意
+    - [[FM音源 YAMAHA方式と John Chowning 方式の違い]]
+- 実際には
+    - FM音源といえば、
+        - 暗黙にYAMAHA方式をさすことが多い
+        - 慣例上
+    - 一方で、FMシンセといったときは、
+        - YAMAHA方式のこともあれば、
+        - John Chowning方式のこともあるので注意

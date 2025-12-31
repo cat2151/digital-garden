@@ -3,5 +3,5 @@
 - 調査
     - LLMにきいた
         - [ChatGPT - SSG Quartz 猫画像表示](https://chatgpt.com/share/694bf5b2-ce7c-8010-92ec-be45403cc99a)
-- いつやる？
-    - 気が向いたら実施しよう
+- 次は？
+    - やってみましょう

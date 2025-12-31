@@ -19,18 +19,20 @@ title: cat2151's digital garden index
 - 筆者のアカウントに関する [[link]]
 - [[Audio Programming]]
 - [[BlueSkyフィード Audio Programming を作る]]
+- [[why web-browser audio programming]]
+- [[WAVLPF]]
 # どこかMOCに移動するかもしれないコーナー
  - [[Obsidianは2つのVaultを横に並べて編集できる]]
  - [[ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ]]
  - [[Quartz syncを日次バッチで自動化する]]
+- [[Quartz 左上をQuartz 4でなく自分のSNS name等にした]]
+- [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした]]
 # そのうちやってみよう
-- [[Quartz バックリンクをページ末尾に表示する]]
-- [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
+- 5分 [[Quartz バックリンクをページ末尾に表示する]]
+- 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
+- 5分 [[Quartz SNS Profile画像 を左上に表示する]]
 - [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
 - [[OSS]]に関する主観をnoteに（ふわっとしている）
-- [[Quartz 左上をQuartz 4でなく自分のSNS name等にする]]
-- [[Quartz SNS Profile画像 を左上に表示する]]
-- [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にする]]
 - 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
 # 方針のヒント
 - [[digital garden]] っぽく進める

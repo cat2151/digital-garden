@@ -1,0 +1,17 @@
+- 雑にまとめ
+    - YAMAHA方式のほうが上位互換で、YAMAHAにしか出せない音が出る
+- [[YAMAHA]] 方式のFM
+    - phase modulationが使える
+    - feedbackが使える
+- FM元祖 [[John Chowning]] 方式のFM
+    - frequency modulationである
+        - アナログシンセで使われている
+        - 後述のバッグギアに対して、あくまでブレーキまでしかできない
+    - feedbackはない
+- phase modulation
+    - 波形の左右逆転現象を使える
+        - [ヤマハ \| FM音源の原理 - ヤマハ シンセサイザー 50th Anniversary](https://jp.yamaha.com/products/contents/music_production/synth_50th/anecdotes/004.html)
+        - バックギアができる
+        - これにより、YAMAHAならではのFM音源サウンドが生まれる
+- feedbackは波形に独特の倍音をもたらす
+    - これにより、YAMAHAならではのFM音源サウンドが生まれる

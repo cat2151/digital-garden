@@ -1,4 +1,0 @@
-- 方法
-    - `quartz.config.ts`
-        - `pageTitle: "Quartz 4",`
-        - を変更する

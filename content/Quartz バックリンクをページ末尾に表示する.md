@@ -1,3 +1,8 @@
-- まずChatGPTにきいてみよう
 - 備忘
     - 現在は右ペインに表示されている
+- 方法
+    - まずChatGPTにきいてみよう
+        - 結果
+            - [ChatGPT - Quartz バックリンク配置変更](https://chatgpt.com/share/695525bb-8f60-8010-a4bc-fe4738b3c08b)
+    - 次
+        - やってみましょう

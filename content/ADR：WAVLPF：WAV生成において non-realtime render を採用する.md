@@ -1,0 +1,29 @@
+- 経緯：
+    - WAVLPF をモダンな環境へ移植するにあたり、
+        - render方式（realtime / non-realtime）を明示的に選定する必要が生じた。
+    - 選定を行わないまま実装を進めると、
+        - DSP設計・API設計・UX判断が都度揺れる状態になるため、
+        - 先に判断を固定したい。
+- 背景：
+    - 原作（Smile BASIC3版のWAVLPF）は、non-realtimeであった。
+    - phase modulationやoscsyncは、原作どおり実現したい。
+    - 開発規模は、原作どおりコンパクトにしたい。
+- 決定：
+    - non-realtime renderを採用する
+        - 具体的には、原作を踏襲し、以下を設計上の制約とする
+            - 生成する音色は、
+                - 「decay rateなどのパラメータを一度だけ与え、
+                - 2秒ぶんのrenderをまわす」
+                - に割り切って限定する
+            - render関数は、
+                - シンプルなものに限定する
+- 却下した選択肢：
+    - realtime renderで、Tone.js
+        - phase modulationやoscsync等のDSPを書けない。それらは重要な価値であり採用マスト
+    - realtime renderで、WavAudio低レイヤー
+        - すべてを自作が必要で、開発規模が大きくなりすぎる
+- 影響：
+    - メリット： DSP 表現（PM, oscsync 等）を制限なく実装できる
+    - メリット： 実装をシンプルに保てる
+    - デメリット： リアルタイム再生はできない
+    - デメリット： UI/UX がモダンなシンセとは異なる

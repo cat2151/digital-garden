@@ -1,0 +1,2 @@
+- Wikipedia
+    - [Oscillator sync - Wikiwand](https://www.wikiwand.com/en/articles/Oscillator_sync)

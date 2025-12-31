@@ -1,0 +1,9 @@
+- Wikipedia
+    - [wikiwand.com/en/articles/Digital\_signal\_processor](https://www.wikiwand.com/en/articles/Digital_signal_processor)
+- 当デジタルガーデンでは、専ら以下の意味で書かれています
+    - Digital Signal Processing（アルゴリズム・処理内容・分野）
+        - 例
+            - ソフトシンセの音源コア処理
+                - [[FM音源]] など
+            - エフェクタの処理
+                - [[LPF]]、ディレイなど
