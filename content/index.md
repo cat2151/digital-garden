@@ -2,31 +2,26 @@
 title: cat2151's digital garden index
 ---
 # 状況
-- 試験運用中
-- wikinoから移行した直後
+- 以下はMOCに近いが、気分で変動
 
-# 今の方針
+# 今の執筆方針
 - なんでも書くコーナーに、
     - 気分で書く
     - それを適宜、[[Note Refactor]] でnoteに切り出す
-## 心理的安全性
-- 間違ってnote破壊しても安心
-    - 好きなrevisionに戻せる
-        - [[GitHub]] で版管理されている
+## 心理的安全性（content全体に対して、執筆時の）
+- 執筆を雑に着手してよい（web公開できる範囲で）
+    - 間違ってnote破壊しても安心
+        - 好きなrevisionに戻せる
+            - [[GitHub]] で版管理されている
 
 # なんでも書くコーナー
-- ここに気分で書いてみよう
+- ※ここに気分で書いてみよう
 - 筆者のアカウントに関する [[link]]
 - [[Audio Programming]]
 - [[BlueSkyフィード Audio Programming を作る]]
 - [[why web-browser audio programming]]
 - [[WAVLPF]]
-# どこかMOCに移動するかもしれないコーナー
- - [[Obsidianは2つのVaultを横に並べて編集できる]]
- - [[ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ]]
- - [[Quartz syncを日次バッチで自動化する]]
-- [[Quartz 左上をQuartz 4でなく自分のSNS name等にした]]
-- [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした]]
+- [[Quartz Recent Notes の表示styleをチューニングする]]
 # そのうちやってみよう
 - 5分 [[Quartz バックリンクをページ末尾に表示する]]
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
@@ -34,6 +29,12 @@ title: cat2151's digital garden index
 - [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
 - [[OSS]]に関する主観をnoteに（ふわっとしている）
 - 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
+# ナレッジ : どこかMOCに移動するかもしれないコーナー
+- [[Obsidianは2つのVaultを横に並べて編集できる]]
+- [[ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ]]
+- [[Quartz syncを日次バッチで自動化した]]
+- [[Quartz 左上をQuartz 4でなく自分のSNS name等にした]]
+- [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
     - 例

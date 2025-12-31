@@ -1,8 +1,69 @@
-# 以下、ざっくりぐぐったもの
-- soundcloud : [Title Unavailable \| Site Unreachable](https://soundcloud.com/cat2151/wavlpf-demo-20150301)
-- ニコニコ動画 : [プチコン3号でソフトシンセ作ってみた - ニコニコ動画](https://www.nicovideo.jp/watch/nm25691177)
-- 公式 : [smileboom.com/special/ptcm3/ogiri/nominate/](https://smileboom.com/special/ptcm3/ogiri/nominate/)
-- 公式 : [ユーザー作品紹介\_第3回大喜利受賞作品 – SmileBasic](https://smilebasic.com/user/ogiri3/)
-- gist : [プチコン3号　備忘録 · GitHub](https://gist.github.com/cat2151/d35667ee8227919165c3)
-# 移植の構想メモ
-- [[WAVLPF 移植の構想メモ]]
+[[ソフトシンセ]]
+
++ 詳しく
+    + どんなアプリ？
+        + 簡易ソフトシンセ + 簡易ミュージックエディタ
+            + 以下に主眼を置いて開発された
+                + 手軽に以下の体験を提供すること
+                    + シンセサイザーによる音色づくり
+                    + 簡易的な作曲
+    + 音色編集機能は？
+        + リアルタイムプレビュー
+            + 音を鳴らしながら、2つのパラメータをポインティングデバイスのx,yで編集
+                + ※編集体験の主軸となる機能
+    + シンセ機能は？
+        + 以下のソフトシンセを簡易的に実現
+            + アナログモデリングシンセ
+            + FM音源
+            + サンプラー
+            + ほか（失念）
+        + 以下のエフェクタを簡易的に実現
+            + LPF、BPFほか各種フィルタやEQ
+            + オーバードライブ / ディストーション
+            + 逆再生
+            + 2つの音色のレイヤー再生
+            + Chorus
+            + Super Saw化
+            + ほか（失念）
+        + Decay
+            + エンベロープはDecayのみ
+            + LPFの各パラメータほか、いろいろなパラメータをDecayさせることができる
+        + セルフサンプリング
+            + ※用語としての妥当性は不明。この概念そのものがLLMがハルシネーションするレベルで、マイナー
+            + アナログシンセやFM音源のオシレーターに、ソースとしてサンプラーで録音した音色を利用可能
+            + これにより以下のようなことが可能
+                + アナログシンセで、LPF Decayで倍音変化する音色を2つ作成
+                + FMのモジュレータとキャリアそれぞれにその音色を割り当ててFMし、
+                    + その変調の度合いをDecayで変化
+                + 必要に応じて、逆再生
+                + 上記を繰り返して、単体では生成できないような音色を作る
+        + シンプル、ミニマム
+            + エフェクトやシンセは1段のみ
+            + 多段エフェクトを実現するため、前述のセルフサンプリングを利用
+
+# ブラウザ移植版（2025年）
+- 開発中
+    - [[WAVLPFブラウザ移植版]]
+
+# ニンテンドー3DS版（2015年）
+- プログラミング言語
+    - Smile BASIC3
+        - 使った感想
+            - 小さいcodeで速やかにUXを検証できることに優れており、プロトタイピングに好適
+- link
+    - ※取り急ぎ、ざっくりぐぐった
+    - soundcloud : [Title Unavailable \| Site Unreachable](https://soundcloud.com/cat2151/wavlpf-demo-20150301)
+    - ニコニコ動画 : [プチコン3号でソフトシンセ作ってみた - ニコニコ動画](https://www.nicovideo.jp/watch/nm25691177)
+    - 公式 : [smileboom.com/special/ptcm3/ogiri/nominate/](https://smileboom.com/special/ptcm3/ogiri/nominate/)
+    - 公式 : [ユーザー作品紹介\_第3回大喜利受賞作品 – SmileBasic](https://smilebasic.com/user/ogiri3/)
+    - gist : [プチコン3号　備忘録 · GitHub](https://gist.github.com/cat2151/d35667ee8227919165c3)
+
+# 名前の由来
+- 最初はWAVにLPFをかけるだけのアプリとしてスタートした（小さく始める）
+    - そのときの名称のまま
+- 実際、体験のメインと入口も、
+    - [[シンセベース]]的音色に
+        - LPFをかけて
+            - 音色変化を楽しむ
+    - なので、名称と実態はそれほど遠くはない
+

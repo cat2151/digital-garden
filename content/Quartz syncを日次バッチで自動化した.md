@@ -18,7 +18,7 @@
 - [[cat-file-watcher]] を利用する
 - 設定ファイル例
     - 夜中に1回～2回自動でsyncする
-        - ※これからtestする
+    - 筆者はこれを使っている
 ```toml
 [[commands]]
     # 実行 : digital-garden sync（Obsidian Quartz）
@@ -26,5 +26,4 @@
     cwd                 = "C:/projects/quartz/"
     time_period         = "night_shift"
     interval            = "3h"
-    no_focus    = true
 ```

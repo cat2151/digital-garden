@@ -1,16 +1,24 @@
-- [GitHub - lynchjames/note-refactor-obsidian: Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.](https://github.com/lynchjames/note-refactor-obsidian)
-- とても便利
-    - メリット
-        - [[認知負荷]] を低くできる
-            - 楽な作業の流れにできる：
-                - 「タイトルと本文を書く」
-                - 「それをホットキーで [[アトミックノート]] に切り出す」
-        - ※自分なりの設定がマスト
-    - これまでの課題
-        - コミュニティプラグインのノートコンポーザーの場合、
-            - ホットキーを押してからノートのタイトルをその場で考える必要がある
-                - 認知負荷が高い
-                    - [[精神的スタック]] が積み重なるため
-            - ※最近は使っていないので状況が変化している可能性があります
-    - Note Refactorが解決すること
-        - 前述のとおり、認知負荷を下げることができる
+- [[Obsidian]] コミュニティプラグイン
+- 公式
+    - [GitHub - lynchjames/note-refactor-obsidian: Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.](https://github.com/lynchjames/note-refactor-obsidian)
+- 用途
+    - 選択範囲を別のノートに切り出す
+        - ※IDEリファクタリングにおける`メソッド抽出`のイメージ
+        - これによりアトミックノートの構築を円滑化する
+- 所感
+    - とても便利
+        - 使って感じたメリット
+            - [[認知負荷]] を低くできる
+                - 楽な作業の流れにできる：
+                    - 「タイトルと本文を書く」
+                    - 「それをホットキーで [[アトミックノート]] に切り出す」
+            - ※自分なりの設定をすること
+        - 使うモチベ
+            - これまでの課題
+                - コミュニティプラグインのノートコンポーザーの場合、
+                    - ホットキーを押してからノートのタイトルをその場で考える必要がある
+                        - 認知負荷が高い
+                            - [[精神的スタック]] が積み重なるため
+                    - ※最近は使っていないので状況が変化している可能性があります
+            - Note Refactorが解決すること
+                - 前述のとおり、認知負荷を下げることができる
