@@ -1,0 +1,15 @@
+- モチベ
+    - これまでの課題
+        - 例
+            - title : Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした（Recent Notesを利用）
+        - こうしたい
+            - title : Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした
+            - description : Recent Notesを利用
+            - なぜならtitleを読みやすくしたい
+                - 参考
+                    - [💿MIN-0038 分類や検索マッチの用途ではタグではなくdescriptionプロパティを使う - Minerva](https://minerva.mamansoft.net/min-0038)
+- 検討
+    - まずシンプルに、descriptionだけで制御がよさそう
+        - 人力制御が目的
+# どうする？
+- LLMに投げましょう
