@@ -21,7 +21,7 @@ title: cat2151's digital garden index
 - [[BlueSkyフィード Audio Programming を作る]]
 - [[why web-browser audio programming]]
 - [[WAVLPF]]
-- [[Quartz Recent Notes の表示styleをチューニングする]]
+- [[Quartz Recent Notes の表示styleをチューニングした]]
 # そのうちやってみよう
 - 5分 [[Quartz バックリンクをページ末尾に表示する]]
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]

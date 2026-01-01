@@ -1,38 +1,36 @@
 @use "./base.scss";
 
-// RecentNotesのコンパクト化 - 情報密度最優先
+//////////////////////////////////////////
+// RecentNotesのコンパクト化
+
+// フォントサイズを小さくし、太字をやめる
 .recent-notes {
-  // フォントサイズを小さく
-  font-size: 0.7rem;
+  font-size: 1.1rem !important;
   
-  ul {
-    // 行間を極限まで狭く
-    li {
-      margin-bottom: 0.1rem;
-      line-height: 1.1;
-      padding: 0.1rem 0;
-      
-      a {
-        font-size: 0.7rem;
-      }
-    }
-  }
-  
-  // 日付を完全に非表示
-  .meta,
-  time,
-  .date {
-    display: none !important;
+  a {
+    font-size: 1.1rem !important;
+    font-weight: normal !important;
   }
 }
 
-// RecentNotesエリアにスクロールバーを追加
+// 行間を狭く
+.recent-notes > ul.recent-ul > li {
+  margin: 0 !important;
+  margin-bottom: 0.1rem !important;
+  line-height: 1.0 !important;
+}
+
+// 日付・タグを非表示
+.recent-notes .meta,
+.recent-notes .tags {
+  display: none !important;
+}
+
+// スクロールバーを追加
 .sidebar .recent-notes {
-  max-height: 650px; // 20行以上表示できる高さ
-  overflow-y: auto;
-  padding-right: 0.3rem;
+  max-height: 650px !important;
+  overflow-y: auto !important;
   
-  // スクロールバーのスタイル調整
   &::-webkit-scrollbar {
     width: 6px;
   }
@@ -46,9 +44,11 @@
 // ノート名を10文字程度で切る
 .recent-notes li a {
   display: inline-block;
-  max-width: 150px;
+  max-width: 245px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
   vertical-align: middle;
 }
+//////////////////////////////////////////
+

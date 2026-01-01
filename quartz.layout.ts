@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
 //    Component.Explorer(),
-    Component.RecentNotes({ limit: 20 }),
+    Component.RecentNotes({ limit: 50 }),
   ],
   right: [
     Component.Graph(),
