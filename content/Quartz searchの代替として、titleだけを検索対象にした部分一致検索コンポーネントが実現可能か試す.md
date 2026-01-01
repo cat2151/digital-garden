@@ -1,0 +1,14 @@
+- Bluesky
+    - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbdhutcfwc2g)
+- 方針
+    - 小さく始める
+    - コンポーネント慣れしましょう
+    - まずtitleだけを対象にしましょう
+    - incremental searchも後回しにして、
+        - enterで検索開始の素朴な実装に
+    - すべてを素朴な実装で、小さく始める
+- いつやる？
+    - 気が向いたら
+- どうする？
+    - LLMに投げましょう
+

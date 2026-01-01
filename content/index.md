@@ -22,7 +22,7 @@ title: cat2151's digital garden index
 - [[why web-browser audio programming]]
 - [[WAVLPF]]
 # そのうちやってみよう
-- 5分+ [[Quartz searchで全文検索したとき、grepならhitするものがhitしなくて混乱した]]
+- 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
 - 5分 [[Quartz バックリンクをページ末尾に表示する]]
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分 [[Quartz SNS Profile画像 を左上に表示する]]
@@ -36,6 +36,7 @@ title: cat2151's digital garden index
 - [[Quartz 左上をQuartz 4でなく自分のSNS name等にした]]
 - [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした（Recent Notesを利用）]]
 - [[Quartz Recent Notes の表示styleをチューニングした]]
+- [[Quartz searchで全文検索したとき、grepならhitするものがhitしなくて混乱した]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
     - 例
