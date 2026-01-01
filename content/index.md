@@ -22,7 +22,7 @@ title: cat2151's digital garden index
 - [[why web-browser audio programming]]
 - [[WAVLPF]]
 # そのうちやってみよう
-- 5分+ [[課題、Quartz、search条件にdescription等を含むことができるか調査し、可能なら実施する]]
+- 5分+ [[Quartz searchで全文検索したとき、grepならhitするものがhitしなくて混乱した]]
 - 5分 [[Quartz バックリンクをページ末尾に表示する]]
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分 [[Quartz SNS Profile画像 を左上に表示する]]

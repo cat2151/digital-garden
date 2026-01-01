@@ -1,0 +1,15 @@
+- ブラウザ向け全文検索ライブラリ
+- 公式
+    - [GitHub - nextapps-de/flexsearch: Next-generation full-text search library for Browser and Node.js](https://github.com/nextapps-de/flexsearch)
+- ふるまい
+    - 全文検索
+    - 前方一致検索
+        - トークン単位の前方一致
+            - トークナイザー依存
+    - 例
+        - `postmate-midi`を全文検索したいとき
+            - `post`でhitする（前方一致）
+            - `midi`でhitしない（部分一致ではない）
+        - ※おそらく設定と実装次第
+    - grepのような「本文のどこにあっても部分一致でhit」は不可能
+# ![[Flexsearchを無理やりgrepに置き換えるとどうなるか整理した]]
