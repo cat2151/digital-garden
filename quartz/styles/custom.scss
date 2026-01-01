@@ -57,21 +57,9 @@
 //////////////////////////////////////////
 // 左上に画像を表示
 
-.page#quartz-body .sidebar.left {
-  padding: 0 2rem 2rem !important;
+.page>#quartz-body .sidebar {
+  padding: 0; // こうしないと画像の上に100px近い空白ができてしまう
 }
-.page#quartz-body .sidebar.left {
-  padding: 0 !important;
-}
-:root {
-  --sidebar-padding-top: 0px;
-}
-.page#quartz-body {
-  --sidebar-padding-top: 0px;
-}
-// .page#quartz-body .sidebar.left {
-//   padding-top: 0 !important; // こうしないと画像の上に100px近い空白ができてしまう
-// }
 
 .left.sidebar h2.page-title::before {
   content: "";
