@@ -57,6 +57,10 @@
 //////////////////////////////////////////
 // 左上に画像を表示
 
+.page#quartz-body .sidebar.left {
+  padding-top: 0; // こうしないと画像の上に100px近い空白ができてしまう
+}
+
 .left.sidebar h2.page-title::before {
   content: "";
   display: block;
