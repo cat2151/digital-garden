@@ -2,6 +2,21 @@
     - Quartz左上にSNS Profile画像 を表示したい
 - 調査
     - LLMにきいた
-        - [ChatGPT - SSG Quartz 猫画像表示](https://chatgpt.com/share/694bf5b2-ce7c-8010-92ec-be45403cc99a)
-- 次は？
-    - やってみましょう
+- 検証
+    - ハルシネーション多発
+    - 対策
+        - chrome dev toolsで
+            - 当該部分の要素のstylesのスクショをとり
+                - LLMに投げた
+    - 解決した
+# 手順
+## 配置
+- 画像
+    - `quartz\public\static\cat.jpg`
+        - 256x256
+## 編集
+- `quartz\quartz\styles\custom.scss`
+## プレビュー
+- [[Quartz プレビュー手順]]
+
+# TODO 編集内容はあとでgithubのlink、上記のscssをlinkに貼る

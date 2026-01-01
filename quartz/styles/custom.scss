@@ -52,3 +52,24 @@
 }
 //////////////////////////////////////////
 
+
+
+//////////////////////////////////////////
+// 左上に画像を表示
+
+.left.sidebar h2.page-title::before {
+  content: "";
+  display: block;
+
+  width: 150px;
+  height: 150px;
+  margin: 12px auto 6px auto;
+
+  background-image: url("/static/cat.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  border-radius: 0;
+}
+//////////////////////////////////////////
