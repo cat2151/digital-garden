@@ -18,17 +18,16 @@ title: cat2151's digital garden index
 - ※ここに気分で書いてみよう
 - 筆者のアカウントに関する [[link]]
 - [[Audio Programming]]
-- [[BlueSkyフィード Audio Programming を作る]]
-- [[why web-browser audio programming]]
-- [[WAVLPF]]
+    - [[why web-browser audio programming]]
+        - [[WAVLPF]]
 # そのうちやってみよう
-- 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
 - 5分 [[Quartz バックリンクをページ末尾に表示する]]
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
-- 5分 [[Quartz SNS Profile画像 を左上に表示する]]
-- [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
+- 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
+- 5分+ [[BlueSkyフィード Audio Programming を作る]]
+- 5分 [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
+- 5分+ 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
 - [[OSS]]に関する主観をnoteに（ふわっとしている）
-- 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
 # ナレッジ : どこかMOCに移動するかもしれないコーナー
 - [[Obsidianは2つのVaultを横に並べて編集できる]]
 - [[ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ]]
@@ -37,6 +36,7 @@ title: cat2151's digital garden index
 - [[Quartz 左のExplorerをアルファベット順でなく、timestamp降順にした（Recent Notesを利用）]]
 - [[Quartz Recent Notes の表示styleをチューニングした]]
 - [[Quartz searchで全文検索したとき、grepならhitするものがhitしなくて混乱した]]
+- [[Quartz SNSのProfile画像 を左上に表示した]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
     - 例
