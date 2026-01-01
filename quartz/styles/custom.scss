@@ -65,7 +65,9 @@
   height: 150px;
   margin: 12px auto 6px auto;
 
-  background-image: url("/static/cat.jpg");
+//  background-image: url("/static/cat.jpg"); // こうしないとlocalは404
+  background-image: url("/digital-garden/static/cat.jpg"); // こうしないとwebは404
+
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
