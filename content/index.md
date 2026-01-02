@@ -37,6 +37,7 @@ title: cat2151's digital garden index
 - [[Quartz Recent Notes の表示styleをチューニングした]]
 - [[Quartz searchで全文検索したとき、grepならhitするものがhitしなくて混乱した]]
 - [[Quartz SNSのProfile画像 を左上に表示した]]
+- [[Python pipxでGitHubからアプリをinstallすれば実行時に仮想環境で（環境を汚さず）実行できる]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
     - 例
