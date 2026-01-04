@@ -1,0 +1,21 @@
+- リポジトリ
+    - [chord2mml/README.ja.md at main · cat2151/chord2mml · GitHub](https://github.com/cat2151/chord2mml/blob/main/README.ja.md)
+- 概要
+    - ライブラリ
+        - 文字列 to 文字列
+            - コード進行を、MMLに変換する
+- 課題、仕様検討
+    - ハイフンをセパレータ専用にするか？問題
+        - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mblstkqavk2y)
+        - 例
+            - Cm7-5 は認識せず、Cm7b5 のみ認識
+        - シンプル優先
+            - セパレータ以外のあらゆる場所のハイフンを削除
+            - testも変更する
+        - 大規模な破壊的変更
+        - Rust + TreeSitterで書き直す案
+            - TreeSitterは、パース時のメリットがいろいろある
+            - TreeSitterはCST化のみを担当。あとの複雑なロジックはRustが担当
+            - wasm-bindgen
+            - 小さく初めて成長させる
+                - 既存テストコードをまるごと移植、ではなく、段階的に一歩ずつやる

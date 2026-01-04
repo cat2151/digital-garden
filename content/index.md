@@ -20,13 +20,14 @@ title: cat2151's digital garden index
 - [[Audio Programming]]
     - [[why web-browser audio programming]]
         - [[WAVLPF]]
+        - [[cat-oscilloscope]]
 # そのうちやってみよう
-- 5分 [[Quartz バックリンクをページ末尾に表示する]]
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
 - 5分+ [[BlueSkyフィード Audio Programming を作る]]
 - 5分 [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
 - 5分+ 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
+- [[（保留）Quartz バックリンクをページ末尾に移動するか検討する]]
 - [[OSS]]に関する主観をnoteに（ふわっとしている）
 # ナレッジ : どこかMOCに移動するかもしれないコーナー
 - [[Obsidianは2つのVaultを横に並べて編集できる]]
@@ -39,6 +40,7 @@ title: cat2151's digital garden index
 - [[Quartz SNSのProfile画像 を左上に表示した]]
 - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
 - [[Python pipxでGitHubからアプリをinstallすれば実行時に仮想環境で（環境を汚さず）実行できる]]
+- [[GitHub Copilot Coding Agentが、Auto Reviewの指摘対応の実装を完了したら、iPadに通知を送信する]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
     - 例

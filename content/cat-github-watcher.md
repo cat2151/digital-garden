@@ -1,0 +1,14 @@
+- リポジトリ
+    - [cat-github-watcher/README.ja.md at main · cat2151/cat-github-watcher · GitHub](https://github.com/cat2151/cat-github-watcher/blob/main/README.ja.md)
+- なぜ開発したか
+    - これまでの課題
+        - GitHub Copilot Coding Agent の Auto Review 便利ですよね
+        - だが認知負荷が高い
+        - 詳しくは
+            - あとでここから持ってくるつもり
+                - Bluesky
+                    - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbi4rkp2vs2e)
+- 一言でいうと
+    - GitHub Copilot Coding Agent の認知負荷を下げる自動化ツール
+- Blueskyに進捗を書く用
+    - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbko2moogc2c)
