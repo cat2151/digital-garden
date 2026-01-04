@@ -26,6 +26,9 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Build quartz-transformer-mmlabc
+        run: npm run build
+        working-directory: node_modules/quartz-transformer-mmlabc
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
