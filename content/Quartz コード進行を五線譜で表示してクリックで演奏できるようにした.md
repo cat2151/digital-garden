@@ -21,13 +21,4 @@ C D E F|G A B c|
 
 # 方法
 - Quartz拡張機能を、coding agentに生成させた
-- [[quartz-transformer-mmlabc]]
-- 詳しくは
-    - あとで書く
-    - 問題
-        - 開発方法が雑だったため、Quartz4のお作法と違い、
-            - インストール手順が煩雑である
-        - 対策
-            - あとで修正するつもり
-            - 
-
+    - [[quartz-transformer-mmlabc]]
