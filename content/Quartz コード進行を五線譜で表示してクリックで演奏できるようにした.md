@@ -22,3 +22,8 @@ C D E F|G A B c|
 # 方法
 - Quartz拡張機能を、coding agentに生成させた
     - [[quartz-transformer-mmlabc]]
+# 状況
+- 落ちたり
+- スーパーリロードでなおったり
+- スーパーリロードでもなおらなかったり
+- 様子見中、調査中
