@@ -26,6 +26,8 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Update quartz-transformer-mmlabc to latest
+        run: npm update quartz-transformer-mmlabc
       - name: Build quartz-transformer-mmlabc
         run: npm run build
         working-directory: node_modules/quartz-transformer-mmlabc
