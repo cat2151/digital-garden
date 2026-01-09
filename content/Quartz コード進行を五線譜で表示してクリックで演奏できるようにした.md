@@ -47,3 +47,7 @@ L:1/4
 K:C
 C D E F|G A B c|
 ```
+- 結果
+    - 変わらず
+- DevToolsで当該codeまで追いかけて気付いた。`<void>`がいる。TypeScript codeである
+    - そこを軸にagentに調査するよう投げた
