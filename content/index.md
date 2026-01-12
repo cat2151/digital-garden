@@ -22,6 +22,7 @@ title: cat2151's digital garden index
         - [[WAVLPF]]
         - [[cat-oscilloscope]]
         - [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
+- [[DeepWiki]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
