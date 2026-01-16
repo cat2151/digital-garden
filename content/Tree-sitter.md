@@ -1,0 +1,52 @@
+- GitHub
+    - [GitHub - tree-sitter/tree-sitter: An incremental parsing system for programming tools](https://github.com/tree-sitter/tree-sitter)
+- 用途
+    - パーサを生成する用
+    - インクリメンタルパースする用（テキストエディタで1文字挿入ごとに高速にパース）
+    - [[CST]]を得る用（[[AST]]ではない）
+- パーサ
+    - 生成されるパーサはC言語ソース固定
+        - parser.c
+            - ネイティブRustで使うときは、それをFFIして使う
+            - ブラウザで使うときは、web-tree-sitterを使う
+                - （parser.cをRust FFIしたものをWASMすることはできない）
+- 使い分け
+    - [[Peggy]]
+        - JavaScript だけで使うとき用
+        - シンプルに [[PEG]] を読み書きしたいとき用
+        - 安定した実装がほしいとき用
+            - ※筆者は [[chord2mml]] 等で利用実績がある
+    - [[pest]]
+        - Rustネイティブとブラウザ（WASM）の両方で利用したいとき用
+        - シンプルに [[PEG]] を読み書きしたいとき用
+        - ※筆者はまだ使っていないので注意
+    - Tree-sitter
+        - テキストエディタで1文字入力するごとに高速インクリメンタルパースするとき用
+        - デメリット
+            - Rustネイティブとブラウザ（WASM）の両方で利用するときに、
+                - 開発コストがかなり大きい
+                    - 生成された perser.c をWASMにできない
+                        - 苦肉の策として web-tree-sitter を経由する必要がある
+                - coding agentがハルシネーションしやすい
+                    - 原因
+                        - 上記アーキテクチャをcoding agentが学習不足
+                    - 事例
+                        - agentは、上記アーキテクチャをすべて捨てて自前のmanual parserを実装する、という事例が複数ある
+                    - 対策
+                        - ※開発コストが高い
+                        - テンプレート
+                            - Tree-sitter Rust WASM アーキテクチャの、ごく小規模なリポジトリを作る
+                                - テンプレート的なリポジトリ
+                                - そこでagentに実装させる
+                                    - そこでも後述の縛りを適用する
+                            - agentに指示する：
+                                - テンプレート的リポジトリを参照して実装せよ
+                                - ※狙い
+                                    - agentにcontextを提示することで、ハルシネーションのリスクを下げる
+                        - AGENTS.md 等で強く縛る
+                            - 強く縛る例
+                                - ※あくまで例なので、もし使うなら検証と適切な変更はマスト
+                                - WASM生成にはweb-tree-sitterを利用せよ
+                                - アーキテクチャをTree-sitterで固定せよ。代替アーキテクチャを実装するな
+                                    - grammer.js を [[SSOT]] として扱え
+                                - もしTree-sitter以外の解決法を生成した場合、出力を中止し、失敗を報告せよ

@@ -1,0 +1,6 @@
+- Parsing Expression Grammar
+- 用途
+    - シンプルにパーサを定義する用
+    - 読みやすい定義をする用
+- より詳しく
+    - [wikiwand.com/en/articles/Parsing\_expression\_grammar](https://www.wikiwand.com/en/articles/Parsing_expression_grammar)

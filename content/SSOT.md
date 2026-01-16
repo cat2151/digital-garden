@@ -1,0 +1,14 @@
+- Single Source of Truth
+- Wikipedia
+    - [Single source of truth - Wikiwand](https://www.wikiwand.com/en/articles/Single_source_of_truth)
+- 用途
+    - [[ETC原則]] を実現する用
+- イメージ
+    - 「どの情報源が正解か？」を一発でわかるよう、その状態を維持せよ
+    - アンチパターン
+        - どの情報源が正解かわからない
+        - 対策
+            - ひとつの情報源が正解、がわかりやすい状態、を維持する
+- 補足
+    - SSOTの考え方で運用を設計していくこともあれば、
+    - SSOTの考え方でアーキテクチャを設計していくこともある

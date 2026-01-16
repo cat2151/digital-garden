@@ -13,9 +13,10 @@
             - セパレータ以外のあらゆる場所のハイフンを削除
             - testも変更する
         - 大規模な破壊的変更
-        - Rust + TreeSitterで書き直す案
-            - TreeSitterは、パース時のメリットがいろいろある
-            - TreeSitterはCST化のみを担当。あとの複雑なロジックはRustが担当
+        - Rust + [[Tree-sitter]] で書き直す案
+            - Tree-sitterは、パース時のメリットがいろいろある
+            - Tree-sitterはCST化のみを担当。あとの複雑なロジックはRustが担当
             - wasm-bindgen
             - 小さく初めて成長させる
                 - 既存テストコードをまるごと移植、ではなく、段階的に一歩ずつやる
+        - [[pest]] で書き直す案

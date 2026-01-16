@@ -1,0 +1,6 @@
+- [GitHub - peggyjs/peggy: Peggy: Parser generator for JavaScript](https://github.com/peggyjs/peggy)
+- パーサジェネレータ
+- 用途
+    - シンプルにJavaScriptでパーサを定義する用
+- パーサ定義フォーマット
+    - [[PEG]]
