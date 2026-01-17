@@ -1,0 +1,13 @@
+- wikipedia
+    - [wikiwand.com/en/articles/Fail-fast\_system](https://www.wikiwand.com/en/articles/Fail-fast_system)
+- 使い分けのイメージ
+    - 開発中
+        - [[Fail-fast system]]
+            - 想定外のことが発生したら、
+            - 即座にエラーで落とすことで、
+            - 問題を早期発見して、
+            - 早期に対処できるようにする
+            - これで開発が効率化される
+            - ※開発後期に問題が発覚するほど、修正コストは増大してしまう
+    - 本番
+        - [[Fault tolerance]]

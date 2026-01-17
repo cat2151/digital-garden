@@ -25,6 +25,7 @@ title: cat2151's digital garden index
 - [[DeepWiki]]
 - [[Tree-sitter]]
 - [[SSOT]]
+- [[Fail-fast]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]

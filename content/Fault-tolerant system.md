@@ -1,0 +1,9 @@
+- wikipedia
+    - [wikiwand.com/en/articles/Fault-tolerant\_system](https://www.wikiwand.com/en/articles/Fault-tolerant_system)
+- [[Fault-tolerant system]]
+    - 用途
+        - 本番障害の規模を最小限にする用
+            - 対象のシステム
+                - 高可用性
+                - ミッションクリティカル
+                - ライフクリティカル
