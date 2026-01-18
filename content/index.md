@@ -48,11 +48,6 @@ title: cat2151's digital garden index
 - [[GitHub Copilot Coding Agentが、Auto Reviewの指摘対応の実装を完了したら、iPadに通知を送信する]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
-    - 例
-        - 植木鉢
-            - noteは鉢植えが育ちかけで芽が出た直後のような状態でもよい
-                - すべてのnoteがあらかじめ大輪の花を咲かせていなくてもよい
-                - 種が播かれた直後で芽が出ていなくてもよい
 - [[アトミックノート]]
     - アトミックノートにできるところはそうしよう
 - ※定義

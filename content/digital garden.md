@@ -1,1 +1,17 @@
-- [wikiwand.com/en/dictionary/digital\_garden](https://www.wikiwand.com/en/dictionary/digital_garden)
+- Wikipedia
+    - [wikiwand.com/en/dictionary/digital\_garden](https://www.wikiwand.com/en/dictionary/digital_garden)
+- 参考記事
+    - [Digital Garden - ukstudio](https://ukstudio.jp/digital-garden/)
+        - デジタルガーデンとはなにか、イメージのヒントになります
+    - [デジタルガーデンを通じた学びのすゝめ #GitHub - Qiita](https://qiita.com/madoreenu/items/868d968e776838b780e1)
+        - こちらもイメージのヒントになります
+    - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+        - デジタルガーデンという言葉の歴史がわかります
+    - [デジタルガーデンに関する資料 — 枯淡苑のデジタルガーデン](https://garden.cotan-en.com/digital-garden-articles)
+        - 参考になるリンクが集まっています
+# 筆者の主観コーナー
+- 例
+    - 植木鉢
+        - noteは鉢植えが育ちかけで芽が出た直後のような状態でもよい
+            - すべてのnoteがあらかじめ大輪の花を咲かせていなくてもよい
+            - 種が播かれた直後で芽が出ていなくてもよい
