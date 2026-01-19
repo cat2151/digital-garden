@@ -1,0 +1,6 @@
+- [[Quartz 4]] の機能
+    - 公式
+        - [AliasRedirects](https://quartz.jzhao.xyz/plugins/AliasRedirects)
+- 用途
+    - 「同じ意味を持つ複数のnoteの乱立」を防止する用
+        - [[SSOT]]

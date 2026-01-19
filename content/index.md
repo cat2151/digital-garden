@@ -26,6 +26,17 @@ title: cat2151's digital garden index
 - [[Tree-sitter]]
 - [[SSOT]]
 - [[Fail-fast]]
+- [[tonejs-mml-to-json]]
+- [[mmlabc-to-smf-rust]]
+- noteを書こう：
+    - ym2151-tone-editor : https://cat2151.github.io/ym2151-tone-editor/
+    - ym2151-log-play-server
+    - fighting-game-button-challenge : https://cat2151.github.io/fighting-game-button-challenge/
+    - smf-to-ym2151log-rust : https://cat2151.github.io/smf-to-ym2151log-rust/
+    - obsidian-plugin-mmlabc : https://cat2151.github.io/obsidian-plugin-mmlabc/
+    - cat-clipboard-launcher : https://cat2151.github.io/cat-clipboard-launcher/
+    - cat-oscillator-sync : https://cat2151.github.io/cat-oscillator-sync/
+    - recursive-folding : https://cat2151.github.io/recursive-folding/
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
@@ -46,6 +57,7 @@ title: cat2151's digital garden index
 - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
 - [[Python pipxでGitHubからアプリをinstallすれば実行時に仮想環境で（環境を汚さず）実行できる]]
 - [[GitHub Copilot Coding Agentが、Auto Reviewの指摘対応の実装を完了したら、iPadに通知を送信する]]
+- [[AliasRedirects]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
 - [[アトミックノート]]

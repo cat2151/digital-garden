@@ -1,3 +1,11 @@
+---
+aliases:
+  - デジタルガーデン
+  - デジタル・ガーデン
+  - digitalgarden
+  - digital-garden
+---
+
 - Wikipedia
     - [wikiwand.com/en/dictionary/digital\_garden](https://www.wikiwand.com/en/dictionary/digital_garden)
 - 参考記事

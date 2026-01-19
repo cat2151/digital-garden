@@ -1,2 +1,21 @@
-- Blueskyに進捗を書く用
-    - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbdxjum4hk2w)
+- [[oscilloscope]] 風の波形ビジュアライザ
+- demo
+    - [Cat Oscilloscope](https://cat2151.github.io/cat-oscilloscope/)
+- リポジトリ
+    - [GitHub - cat2151/cat-oscilloscope: This oscilloscope visualizes audio from your microphone or wav-file with zero-cross detection for stable waveform display.](https://github.com/cat2151/cat-oscilloscope)
+- 用途
+    - micから音声を入力し、ビジュアライズして楽しむ用
+    - wavファイルを入力し、ビジュアライズして楽しむ用
+    - ライブラリとして利用し、波形ビジュアライズして楽しむ用
+- 状況
+    - バグがある
+        - 目指していること
+            - 波形の位相を1/60秒ごと（1frameごと）に揃えて表示する
+        - 現状
+            - 波形の位相が乱れることが多い
+        - 見通し
+            - 2026年2月末までに概ね揃った波形を表示できるようになるといいな、と思っているが、
+                - 実現可能かは不明
+- 関連リンク
+    - Blueskyに進捗を書く用
+        - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbdxjum4hk2w)

@@ -1,1 +1,17 @@
-- [cat-file-watcher - Cat is watching your file - \| cat-file-watcher](https://cat2151.github.io/cat-file-watcher/README.ja.html)
+- リポジトリ
+    - [cat-file-watcher/README.ja.md at main · cat2151/cat-file-watcher · GitHub](https://github.com/cat2151/cat-file-watcher/blob/main/README.ja.md)
+- 用途
+    - 以下を手軽に実施する用
+        - ファイル監視
+        - ウィンドウ監視
+            - 自動でウィンドウを閉じる
+        - プロセス監視
+            - 自動でプロセスを終了する
+        - 自動起動、自動終了
+            - 決まった時間に、
+                - 自動でアプリを起動
+                - 自動でアプリを終了
+                - ※アプリは、ウィンドウやプロセスで識別する
+    - 使い分け
+        - 普通に [[タスクランナー]] を使ったほうがいいこともあるので、使い分け
+            - 詳しくは、リポジトリのドキュメントを参照のこと

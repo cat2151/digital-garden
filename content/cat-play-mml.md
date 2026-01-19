@@ -1,0 +1,7 @@
+- リポジトリ
+    - [cat-play-mml/README.ja.md at main · cat2151/cat-play-mml · GitHub](https://github.com/cat2151/cat-play-mml/blob/main/README.ja.md)
+- 合わせ技で実現できること
+    - [[mmlabc-to-smf-rust]] を MMLコンパイラ として利用し、 
+        - ==このsectionは書きかけです==
+    - 手軽に音楽を楽しむ用
+- ==このnoteは書きかけです==

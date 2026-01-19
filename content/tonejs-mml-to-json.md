@@ -1,0 +1,13 @@
+- demo
+    - https://cat2151.github.io/tonejs-mml-to-json
+- リポジトリ
+    - [tonejs-mml-to-json/README.ja.md at main · cat2151/tonejs-mml-to-json · GitHub](https://github.com/cat2151/tonejs-mml-to-json/blob/main/README.ja.md)
+- 用途
+    - [[MML]] を [[tonejs-json-sequencer]] 用JSONに変換する用
+    - 合わせ技で実現できること
+        - [[tonejs-json-sequencer]] と組み合わせて、
+            - ブラウザで [[MML]] で音楽ができる
+                - [[Tone.js]] を [[MML]] で楽しむことができる
+            - ブラウザで手軽に音楽を楽しめる
+- 仕組み
+    - コンパイラ

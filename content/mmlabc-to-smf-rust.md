@@ -1,0 +1,7 @@
+- リポジトリ
+    - [mmlabc-to-smf-rust/README.ja.md at main · cat2151/mmlabc-to-smf-rust · GitHub](https://github.com/cat2151/mmlabc-to-smf-rust/blob/main/README.ja.md)
+- 用途
+    - 合わせ技で実現できること
+        - [[cat-play-mml]]  からライブラリとして利用し、[[MML]] を書いて音楽を楽しむ用
+            - ローカルPCのコマンドライン上で、コマンドライン引数にMMLをわたすだけで音楽を鳴らして楽しむ用
+        - 手軽に音楽を楽しむ用

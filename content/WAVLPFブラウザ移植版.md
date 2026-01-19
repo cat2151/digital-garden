@@ -1,3 +1,9 @@
+# demo
+- [WAVLPF Synthesizer](https://cat2151.github.io/wavlpf/)
+    - バグ修正中
+
+# リポジトリ
+- [Fetching Title#1cge](https://github.com/cat2151/wavlpf/blob/main/README.ja.md)
 
 # Blueskyに進捗を書く用
 - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbdughpmzc2a)

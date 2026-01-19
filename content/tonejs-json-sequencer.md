@@ -1,0 +1,16 @@
+- demo
+    - https://cat2151.github.io/tonejs-json-sequencer/
+- リポジトリ
+    - [tonejs-json-sequencer/README.ja.md at main · cat2151/tonejs-json-sequencer · GitHub](https://github.com/cat2151/tonejs-json-sequencer/blob/main/README.ja.md)
+- 用途
+    - プレーンテキスト で書いたTone.js用データを
+        - データとして演奏する用
+- 合わせ技で実現できること
+    - [[tonejs-mml-to-json]] と組み合わせて、
+        - ブラウザで [[MML]] で音楽ができる
+            - [[Tone.js]] を [[MML]] で楽しむことができる
+        - ブラウザで手軽に音楽を楽しめる
+- 仕組み
+    - JSONをパースして
+        - [[Tone.js]] の対応する関数を呼び出す
+    - [[Tone.js]] の各種スケジューリング等をする

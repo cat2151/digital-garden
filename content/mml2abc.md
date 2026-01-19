@@ -1,5 +1,16 @@
+- demo
+    - [mml2abc example](https://cat2151.github.io/mml2abc/dist/)
 - リポジトリ
     - [mml2abc/README.ja.md at main · cat2151/mml2abc · GitHub](https://github.com/cat2151/mml2abc/blob/main/README.ja.md)
-- ライブラリ
-    - 文字列 to 文字列
-        - MML から ABC notationへ変換
+- 用途
+    - [[MML]] を  [[ABC notation]] に変換する用
+    - 合わせ技で実現できること
+        - [[Obsidian]] で、MMLを書くだけで、五線譜を表示し、クリックで音楽を演奏して楽しむ用
+            - [[Quartz 4]] で、それをwebpageに公開して、五線譜を表示し、クリックで音楽を演奏して楽しむ用
+        - ブラウザで、MMLを書くだけで、五線譜を表示し、クリックで音楽を演奏して楽しむ用
+        - 手軽に [[Obsidian]] で音楽を楽しむ用
+        - 手軽にブラウザで音楽を楽しむ用
+- 説明
+    - ライブラリ
+        - 文字列 to 文字列
+            - [[MML]] から [[ABC notation]] へ変換

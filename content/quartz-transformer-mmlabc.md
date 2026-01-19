@@ -1,6 +1,6 @@
 - リポジトリ
     - [quartz-transformer-mmlabc/README.ja.md at main · cat2151/quartz-transformer-mmlabc · GitHub](https://github.com/cat2151/quartz-transformer-mmlabc/blob/main/README.ja.md)
-- Quartz4用
+- [[Quartz 4]] 用
 - 機能
     - コード進行を
         - 五線譜表示する

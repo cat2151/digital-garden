@@ -1,5 +1,7 @@
 - リポジトリ
     - [cat-github-watcher/README.ja.md at main · cat2151/cat-github-watcher · GitHub](https://github.com/cat2151/cat-github-watcher/blob/main/README.ja.md)
+- 用途
+    - 趣味OSS開発を、より楽に、楽しくする用
 - なぜ開発したか
     - これまでの課題
         - GitHub Copilot Coding Agent の Auto Review 便利ですよね
