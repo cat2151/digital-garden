@@ -20,3 +20,7 @@
         - 開発体験、user体験とも
     - まずuser体験のeasyな入口をメンテしていくことで見通しがよくなる
         - 経験則である
+- 対象いろいろ
+    - [[ym2151-tone-editor]]
+    - [[mmlabc-to-smf-rust]]
+    - [[ym2151-log-play-server]]

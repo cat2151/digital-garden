@@ -1,0 +1,16 @@
+- リポジトリ
+    - [ym2151-log-play-server \| ym2151-log-play-server](https://cat2151.github.io/ym2151-log-play-server/README.ja.html)
+- 用途
+    - ローカルでYM2151を鳴らして楽しむ用
+    - 合わせ技で実現できること
+        - cat-play-mml.exe cde で「ドレミ」を鳴らす用
+            - ※ym2151-log-play-serverをライブラリとして利用している
+- 説明
+    - サーバ
+        - リアルタイム演奏
+        - 常駐
+        - 常に仮想YM2151があなたのPCに
+            - メッセージを投げれば音が鳴ります
+                - 活用例
+                    - [[cat-play-mml]]
+

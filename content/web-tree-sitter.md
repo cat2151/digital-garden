@@ -1,0 +1,6 @@
+- リポジトリ
+    - [tree-sitter/lib/binding\_web at master · tree-sitter/tree-sitter · GitHub](https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web)
+- 用途
+    - ブラウザでTree-sitterを使って、例えばMMLをパースする用
+        - 筆者の利用実績
+            - [[tonejs-mml-to-json]]

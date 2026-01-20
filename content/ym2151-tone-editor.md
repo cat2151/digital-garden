@@ -1,0 +1,4 @@
+- リポジトリ
+     - https://cat2151.github.io/ym2151-tone-editor/
+- 用途
+    - ローカルで音色づくりを楽しむ用

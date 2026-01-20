@@ -22,11 +22,16 @@
         - ※筆者はまだ使っていないので注意
     - Tree-sitter
         - テキストエディタで1文字入力するごとに高速インクリメンタルパースするとき用
+        - 筆者の利用実績
+            - [[mmlabc-to-smf-rust]]
+                - MMLパース用
+            - [[tonejs-mml-to-json]]
+                - MMLパース用
         - デメリット
             - Rustネイティブとブラウザ（WASM）の両方で利用するときに、
                 - 開発コストがかなり大きい
                     - 生成された perser.c をWASMにできない
-                        - 苦肉の策として web-tree-sitter を経由する必要がある
+                        - 苦肉の策として [[web-tree-sitter]] を経由する必要がある
                 - coding agentがハルシネーションしやすい
                     - 原因
                         - 上記アーキテクチャをcoding agentが学習不足

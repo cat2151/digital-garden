@@ -23,14 +23,9 @@ title: cat2151's digital garden index
         - [[cat-oscilloscope]]
         - [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
 - [[DeepWiki]]
-- [[Tree-sitter]]
-- [[SSOT]]
-- [[Fail-fast]]
 - [[tonejs-mml-to-json]]
-- [[mmlabc-to-smf-rust]]
+- [[web-ym2151]]
 - noteを書こう：
-    - ym2151-tone-editor : https://cat2151.github.io/ym2151-tone-editor/
-    - ym2151-log-play-server
     - fighting-game-button-challenge : https://cat2151.github.io/fighting-game-button-challenge/
     - smf-to-ym2151log-rust : https://cat2151.github.io/smf-to-ym2151log-rust/
     - obsidian-plugin-mmlabc : https://cat2151.github.io/obsidian-plugin-mmlabc/
