@@ -18,15 +18,22 @@ title: cat2151's digital garden index
 - ※ここに気分で書いてみよう
 - 筆者のアカウントに関する [[link]]
 - [[Audio Programming]]
-    - [[why web-browser audio programming]]
-        - [[WAVLPF]]
-        - [[cat-oscilloscope]]
+    - ブラウザ
+        - [[why web-browser audio programming]]
+        - ソフトシンセ
+            - WebAudio render
+                - [[tonejs-mml-to-json]]
+            - 自前render
+                - [[WAVLPF]]
+                - [[web-ym2151]]
+        - ビジュアライザ
+            - [[cat-oscilloscope]]
+    - Windowsネイティブ
         - [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
 - [[DeepWiki]]
-- [[tonejs-mml-to-json]]
-- [[web-ym2151]]
+- [[fighting-game-button-challenge]]
+- [[obsidian-cat-jump]]
 - noteを書こう：
-    - fighting-game-button-challenge : https://cat2151.github.io/fighting-game-button-challenge/
     - smf-to-ym2151log-rust : https://cat2151.github.io/smf-to-ym2151log-rust/
     - obsidian-plugin-mmlabc : https://cat2151.github.io/obsidian-plugin-mmlabc/
     - cat-clipboard-launcher : https://cat2151.github.io/cat-clipboard-launcher/

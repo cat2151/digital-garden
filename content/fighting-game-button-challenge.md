@@ -1,0 +1,7 @@
+- リポジトリ
+    - [fighting-game-button-challenge（格ゲーボタンチャレンジ） \| fighting-game-button-challenge](https://cat2151.github.io/fighting-game-button-challenge/README.ja)
+- 用途
+    - 手軽なゲームとして遊ぶ用
+        - 気が向いたときにボタンを押して楽しむ用
+    - [[レバーレスコントローラー]] に慣れる用
+    - [[ストリートファイター6]] に慣れる用
