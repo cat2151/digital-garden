@@ -1,3 +1,5 @@
+- リポジトリ
+    - [obsidian-cat-jump/README.ja.md at main · cat2151/obsidian-cat-jump · GitHub](https://github.com/cat2151/obsidian-cat-jump/blob/main/README.ja.md)
 - Bluesky
     - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mcwqvxb7w22u)
 ## 用途
@@ -8,12 +10,12 @@
 - jumpのプラグインを作って遊ぶ用
     - 楽しいよ！
 ## 状況
-- まだlocalにのみ存在
-- ドッグフーディング中
-- 気が向いたら
-    - GitHubリポジトリを作って、
-        - そこに読みやすくリファクタリングした版を掲載する
-            - という方向の想定
+- releaseした
+- 調査中
+    - BRATでinstallできるかどうか
+- 後回し
+    - リファクタリング
+    - ドキュメント整備
 ## 開発手順、備忘
 - ※合計30分くらい
 - 開発環境
