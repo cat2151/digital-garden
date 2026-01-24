@@ -33,6 +33,7 @@ title: cat2151's digital garden index
 - [[DeepWiki]]
 - [[fighting-game-button-challenge]]
 - [[obsidian-cat-jump]]
+- [[obsidian-guided-vim-like]]
 - noteを書こう：
     - smf-to-ym2151log-rust : https://cat2151.github.io/smf-to-ym2151log-rust/
     - obsidian-plugin-mmlabc : https://cat2151.github.io/obsidian-plugin-mmlabc/
