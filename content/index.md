@@ -30,12 +30,12 @@ title: cat2151's digital garden index
             - [[cat-oscilloscope]]
     - Windowsネイティブ
         - [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
+        - [[smf-to-ym2151log-rust]]
 - [[DeepWiki]]
 - [[fighting-game-button-challenge]]
 - [[obsidian-cat-jump]]
 - [[obsidian-guided-vim-like]]
 - noteを書こう：
-    - smf-to-ym2151log-rust : https://cat2151.github.io/smf-to-ym2151log-rust/
     - obsidian-plugin-mmlabc : https://cat2151.github.io/obsidian-plugin-mmlabc/
     - cat-clipboard-launcher : https://cat2151.github.io/cat-clipboard-launcher/
     - cat-oscillator-sync : https://cat2151.github.io/cat-oscillator-sync/
