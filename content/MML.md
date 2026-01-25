@@ -1,3 +1,14 @@
 - Music Macro Language
 - Wikipedia
     - [wikiwand.com/en/articles/Music\_Macro\_Language](https://www.wikiwand.com/en/articles/Music_Macro_Language)
+- 用途
+    - PCやスマートフォンやiPadで、
+        - いつでもどこでも
+        - 手軽に音楽を楽しむ用
+- メリット
+    - 軽量
+    - プレーンテキストのみで記述ができる
+- イメージ
+    - `cde` と書くと「ドレミ」が鳴る
+- 例
+    - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]

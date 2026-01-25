@@ -28,15 +28,18 @@ title: cat2151's digital garden index
                 - [[web-ym2151]]
         - ビジュアライザ
             - [[cat-oscilloscope]]
+        - [[static site generator]]
+            - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
     - Windowsネイティブ
         - [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
         - [[smf-to-ym2151log-rust]]
+    - Obsidian
+        - [[obsidian-plugin-mmlabc]]
 - [[DeepWiki]]
 - [[fighting-game-button-challenge]]
 - [[obsidian-cat-jump]]
 - [[obsidian-guided-vim-like]]
 - noteを書こう：
-    - obsidian-plugin-mmlabc : https://cat2151.github.io/obsidian-plugin-mmlabc/
     - cat-clipboard-launcher : https://cat2151.github.io/cat-clipboard-launcher/
     - cat-oscillator-sync : https://cat2151.github.io/cat-oscillator-sync/
     - recursive-folding : https://cat2151.github.io/recursive-folding/
