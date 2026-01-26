@@ -39,9 +39,12 @@ title: cat2151's digital garden index
 - [[fighting-game-button-challenge]]
 - [[obsidian-cat-jump]]
 - [[obsidian-guided-vim-like]]
+- [[cat-clipboard-launcher]]
 - noteを書こう：
-    - cat-clipboard-launcher : https://cat2151.github.io/cat-clipboard-launcher/
     - cat-oscillator-sync : https://cat2151.github.io/cat-oscillator-sync/
+        - 課題、ドキュメントが読みづらい
+            - 対策、ドキュメントをメンテ
+                - 備考、利用手順も、自動化など、より便利にできるなら、それも検討
     - recursive-folding : https://cat2151.github.io/recursive-folding/
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
