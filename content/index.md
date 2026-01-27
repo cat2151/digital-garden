@@ -17,35 +17,46 @@ title: cat2151's digital garden index
 # なんでも書くコーナー
 - ※ここに気分で書いてみよう
 - 筆者のアカウントに関する [[link]]
-- [[Audio Programming]]
-    - ブラウザ
-        - [[why web-browser audio programming]]
-        - ソフトシンセ
-            - WebAudio render
+- 筆者のGitHubリポジトリ
+    - [[Audio Programming]]
+        - ブラウザ
+            - [[why web-browser audio programming]]
+            - ソフトシンセ
+                - WebAudio render
+                    - [[tonejs-json-sequencer]]
+                - 自前render
+                    - [[WAVLPF]]
+                    - [[web-ym2151]]
+            - ビジュアライザ
+                - [[cat-oscilloscope]]
+            - パーサ
                 - [[tonejs-mml-to-json]]
-            - 自前render
-                - [[WAVLPF]]
-                - [[web-ym2151]]
-        - ビジュアライザ
-            - [[cat-oscilloscope]]
-        - [[static site generator]]
-            - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
-    - Windowsネイティブ
-        - [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
-        - [[smf-to-ym2151log-rust]]
+                - [[chord2mml]]
+                    - [[mml2abc]]
+            - [[static site generator]]
+                - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
+        - Windowsネイティブ
+            - YM2151
+                - [[cat-play-mml]]
+                    - [[mmlabc-to-smf-rust]]
+                        - [[smf-to-ym2151log-rust]]
+                            - [[ym2151-log-play-server]]
+                - [[ym2151-tone-editor]]
+                - 構想段階 [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
+            - [[cat-oscillator-sync]]
     - Obsidian
         - [[obsidian-plugin-mmlabc]]
-- [[DeepWiki]]
-- [[fighting-game-button-challenge]]
-- [[obsidian-cat-jump]]
-- [[obsidian-guided-vim-like]]
-- [[cat-clipboard-launcher]]
+        - [[obsidian-cat-jump]]
+        - 構想段階 [[obsidian-guided-vim-like]]
+    - 格ゲー練習用
+        - [[fighting-game-button-challenge]]
+    - その他
+        - [[cat-file-watcher]]
+        - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - cat-oscillator-sync : https://cat2151.github.io/cat-oscillator-sync/
-        - 課題、ドキュメントが読みづらい
-            - 対策、ドキュメントをメンテ
-                - 備考、利用手順も、自動化など、より便利にできるなら、それも検討
     - recursive-folding : https://cat2151.github.io/recursive-folding/
+    - postmate-midi-experimental : [postmate-midi-experimental \| postmate-midi-experimental](https://cat2151.github.io/postmate-midi-experimental/)
+- [[DeepWiki]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
