@@ -4,3 +4,6 @@
   - 参考になる
 - [オープンソース・プロジェクトのたたみ方](https://zenn.dev/dmikurube/articles/how-to-wind-down-an-opensource-project)
   - 参考になる
+- 筆者の、「筆者のリポジトリについてのコントリビューションのスタンス」
+    - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mdgxz2mxa226)
+

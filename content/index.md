@@ -56,6 +56,9 @@ title: cat2151's digital garden index
 - noteを書こう：
     - recursive-folding : https://cat2151.github.io/recursive-folding/
     - postmate-midi-experimental : [postmate-midi-experimental \| postmate-midi-experimental](https://cat2151.github.io/postmate-midi-experimental/)
+    - cat-github-watcher
+    - cat-obsidian-templater-scripts https://cat2151.github.io/cat-obsidian-templater-scripts/
+    - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - [[DeepWiki]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]

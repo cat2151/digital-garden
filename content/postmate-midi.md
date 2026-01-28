@@ -1,2 +1,5 @@
-- [GitHub - cat2151/postmate-midi-experimental: An experimental project for MIDI connections and audio transmission between multiple webpages using only the browser and postMessage.](https://github.com/cat2151/postmate-midi-experimental)
-
+- リポジトリ
+    - [GitHub - cat2151/postmate-midi-experimental: An experimental project for MIDI connections and audio transmission between multiple webpages using only the browser and postMessage.](https://github.com/cat2151/postmate-midi-experimental)
+- 用途
+    - 実験用
+    - 最低限のdemoがあり、音が鳴る。それによって、考えを実証する用
