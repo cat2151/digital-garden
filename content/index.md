@@ -44,9 +44,11 @@ title: cat2151's digital garden index
                 - [[ym2151-tone-editor]]
                 - 構想段階 [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
             - [[cat-oscillator-sync]]
+        - Obsidianで音楽
+            - [[obsidian-plugin-mmlabc]]
     - Obsidian
-        - [[obsidian-plugin-mmlabc]]
         - [[obsidian-cat-jump]]
+        - [[recursive-folding]]
         - 構想段階 [[obsidian-guided-vim-like]]
     - 格ゲー練習用
         - [[fighting-game-button-challenge]]
@@ -54,7 +56,6 @@ title: cat2151's digital garden index
         - [[cat-file-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - recursive-folding : https://cat2151.github.io/recursive-folding/
     - postmate-midi-experimental : [postmate-midi-experimental \| postmate-midi-experimental](https://cat2151.github.io/postmate-midi-experimental/)
     - cat-github-watcher
     - cat-obsidian-templater-scripts https://cat2151.github.io/cat-obsidian-templater-scripts/
