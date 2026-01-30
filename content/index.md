@@ -24,6 +24,7 @@ title: cat2151's digital garden index
             - ソフトシンセ
                 - WebAudio render
                     - [[tonejs-json-sequencer]]
+                    - [[postmate-midi-experimental]]
                 - 自前render
                     - [[WAVLPF]]
                     - [[web-ym2151]]
@@ -56,7 +57,6 @@ title: cat2151's digital garden index
         - [[cat-file-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - postmate-midi-experimental : [postmate-midi-experimental \| postmate-midi-experimental](https://cat2151.github.io/postmate-midi-experimental/)
     - cat-github-watcher
     - cat-obsidian-templater-scripts https://cat2151.github.io/cat-obsidian-templater-scripts/
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]

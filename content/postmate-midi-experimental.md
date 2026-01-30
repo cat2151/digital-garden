@@ -1,0 +1,11 @@
+- リポジトリ
+    - [GitHub - cat2151/postmate-midi-experimental: An experimental project for MIDI connections and audio transmission between multiple webpages using only the browser and postMessage.](https://github.com/cat2151/postmate-midi-experimental)
+- demo
+    - [MIDIキーボード](https://cat2151.github.io/postmate-midi-experimental/experimental09/)
+        - ※mouseをドラッグ
+    - [カットオフツマミ ](https://cat2151.github.io/postmate-midi-experimental/experimental10/)
+        - ※下のボタンを押したあと数秒待ち、playを押してからknob上でマウスを動かす
+    - [サンプラー](https://cat2151.github.io/postmate-midi-experimental/experimental21/)
+        - ※ボタンを押したあとダイアログが出るまで待ち、ダウンロード画面のskipを2回行い、playを押す
+    - ※うまくいかない場合はリロード
+- [[postmate-midi]]
