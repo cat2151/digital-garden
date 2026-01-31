@@ -55,9 +55,9 @@ title: cat2151's digital garden index
         - [[fighting-game-button-challenge]]
     - その他
         - [[cat-file-watcher]]
+        - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - cat-github-watcher
     - cat-obsidian-templater-scripts https://cat2151.github.io/cat-obsidian-templater-scripts/
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - [[DeepWiki]]
