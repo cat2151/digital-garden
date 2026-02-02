@@ -47,6 +47,7 @@ title: cat2151's digital garden index
             - [[cat-oscillator-sync]]
         - Obsidianで音楽
             - [[obsidian-plugin-mmlabc]]
+            - [[quartz-transformer-mmlabc]]
     - Obsidian
         - [[obsidian-cat-jump]]
         - [[cat-obsidian-templater-scripts]]
