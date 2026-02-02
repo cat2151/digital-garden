@@ -1,0 +1,4 @@
+- リポジトリ
+    - [Obsidian Templater Scripts \| cat-obsidian-templater-scripts](https://cat2151.github.io/cat-obsidian-templater-scripts/README.ja)
+- 用途
+    - 上記を参照のこと

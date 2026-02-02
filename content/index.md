@@ -49,6 +49,7 @@ title: cat2151's digital garden index
             - [[obsidian-plugin-mmlabc]]
     - Obsidian
         - [[obsidian-cat-jump]]
+        - [[cat-obsidian-templater-scripts]]
         - [[recursive-folding]]
         - 構想段階 [[obsidian-guided-vim-like]]
     - 格ゲー練習用
@@ -58,7 +59,6 @@ title: cat2151's digital garden index
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - cat-obsidian-templater-scripts https://cat2151.github.io/cat-obsidian-templater-scripts/
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - [[DeepWiki]]
 # そのうちやってみよう
