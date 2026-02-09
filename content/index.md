@@ -63,6 +63,7 @@ title: cat2151's digital garden index
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - [[DeepWiki]]
 - [[agentic codingで趣味OSSを作りやすくなった]]
+- [[感想：Obsidian 向いている人・向いていない人｜松濤Vimmer]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
