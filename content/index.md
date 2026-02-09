@@ -61,9 +61,6 @@ title: cat2151's digital garden index
         - [[cat-clipboard-launcher]]
 - noteを書こう：
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
-- [[DeepWiki]]
-- [[agentic codingで趣味OSSを作りやすくなった]]
-- [[感想：Obsidian 向いている人・向いていない人｜松濤Vimmer]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
@@ -85,6 +82,9 @@ title: cat2151's digital garden index
 - [[Python pipxでGitHubからアプリをinstallすれば実行時に仮想環境で（環境を汚さず）実行できる]]
 - [[GitHub Copilot Coding Agentが、Auto Reviewの指摘対応の実装を完了したら、iPadに通知を送信する]]
 - [[AliasRedirects]]
+- [[DeepWiki]]
+# いろいろ
+- [[いろいろ]]
 # 方針のヒント
 - [[digital garden]] っぽく進める
 - [[アトミックノート]]
