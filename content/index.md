@@ -24,7 +24,6 @@ title: cat2151's digital garden index
             - ソフトシンセ
                 - WebAudio render
                     - [[tonejs-json-sequencer]]
-                    - [[postmate-midi-experimental]]
                 - 自前render
                     - [[WAVLPF]]
                     - [[web-ym2151]]
@@ -36,15 +35,15 @@ title: cat2151's digital garden index
                     - [[mml2abc]]
             - [[static site generator]]
                 - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
+        - ブラウザ & Windowsネイティブ 両対応
+            - [[mmlabc-to-smf-rust]]
+                - [[smf-to-ym2151log-rust]]
+            - [[cat-oscillator-sync]]
         - Windowsネイティブ
             - YM2151
                 - [[cat-play-mml]]
-                    - [[mmlabc-to-smf-rust]]
-                        - [[smf-to-ym2151log-rust]]
-                            - [[ym2151-log-play-server]]
+                    - [[ym2151-log-play-server]]
                 - [[ym2151-tone-editor]]
-                - 構想段階 [[YM2151 リポジトリ群を一通り使う単一フロントエンドTUIを実装する]]
-            - [[cat-oscillator-sync]]
         - Obsidianで音楽
             - [[obsidian-plugin-mmlabc]]
             - [[quartz-transformer-mmlabc]]
@@ -52,7 +51,6 @@ title: cat2151's digital garden index
         - [[obsidian-cat-jump]]
         - [[cat-obsidian-templater-scripts]]
         - [[recursive-folding]]
-        - 構想段階 [[obsidian-guided-vim-like]]
     - 格ゲー練習用
         - [[fighting-game-button-challenge]]
     - その他
@@ -60,6 +58,10 @@ title: cat2151's digital garden index
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
+    - tonejs-step-sequencer
+        - demo [Step sequencer loop demo](https://cat2151.github.io/tonejs-step-sequencer/)
+    - VOICEVOX Playground
+        - ずんだもん demo [VOICEVOX Playground](https://cat2151.github.io/voicevox-playground/)
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
