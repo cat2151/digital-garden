@@ -33,6 +33,8 @@ title: cat2151's digital garden index
                 - [[tonejs-mml-to-json]]
                 - [[chord2mml]]
                     - [[mml2abc]]
+            - シーケンサ
+                - [[tonejs-step-sequencer]]
             - [[static site generator]]
                 - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
         - ブラウザ & Windowsネイティブ 両対応
@@ -58,8 +60,6 @@ title: cat2151's digital garden index
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - tonejs-step-sequencer
-        - demo [Step sequencer loop demo](https://cat2151.github.io/tonejs-step-sequencer/)
     - VOICEVOX Playground
         - ずんだもん demo [VOICEVOX Playground](https://cat2151.github.io/voicevox-playground/)
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
