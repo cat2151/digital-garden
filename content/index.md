@@ -60,8 +60,7 @@ title: cat2151's digital garden index
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - VOICEVOX Playground
-        - ずんだもん demo [VOICEVOX Playground](https://cat2151.github.io/voicevox-playground/)
+    - [[voicevox-playground]]
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
