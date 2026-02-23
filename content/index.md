@@ -60,7 +60,9 @@ title: cat2151's digital garden index
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - cat-github-auditor
+    - cat-repo-auditor
+        - リポジトリ
+            - [GitHub - cat2151/cat-repo-auditor: WIP](https://github.com/cat2151/cat-repo-auditor)
     - [[voicevox-playground]]
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 # そのうちやってみよう
