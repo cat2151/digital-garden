@@ -41,6 +41,8 @@ title: cat2151's digital garden index
             - [[mmlabc-to-smf-rust]]
                 - [[smf-to-ym2151log-rust]]
             - [[cat-oscillator-sync]]
+        - ブラウザから、ローカルのネイティブHTTPサーバを利用
+            - [[voicevox-playground]]
         - Windowsネイティブ
             - YM2151
                 - [[cat-play-mml]]
@@ -63,9 +65,8 @@ title: cat2151's digital garden index
     - cat-repo-auditor
         - リポジトリ
             - [GitHub - cat2151/cat-repo-auditor: WIP](https://github.com/cat2151/cat-repo-auditor)
-    - [[voicevox-playground]]
     - Obsidian
-        - checkbox-zoom-highlight-sync （仮）
+        - 構想段階 仮 Templater checkbox-zoom-highlight-sync
             - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mfktu52f6s2z)
             - イメージ
                 - Templater scriptを実行すると、
