@@ -64,6 +64,20 @@ title: cat2151's digital garden index
         - リポジトリ
             - [GitHub - cat2151/cat-repo-auditor: WIP](https://github.com/cat2151/cat-repo-auditor)
     - [[voicevox-playground]]
+    - Obsidian
+        - checkbox-zoom-highlight-sync （仮）
+            - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mfktu52f6s2z)
+            - イメージ
+                - Templater scriptを実行すると、
+                    - 現在行のcheckboxの解除をして、
+                        - 今がzoomなら
+                            - zoom解除
+                            - 次の行に移動して
+                            - zoom
+                        - 今が` == ～ ==`のハイライトなら
+                            - ハイライト解除
+                            - 次の行に移動して
+                            - ハイライト
     - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
