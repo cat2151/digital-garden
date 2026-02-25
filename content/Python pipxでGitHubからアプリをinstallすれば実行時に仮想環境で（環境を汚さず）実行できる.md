@@ -55,5 +55,5 @@ pipx run --spec git+https://github.com/cat2151/cat-oscillator-sync cat-oscillato
 - GitHub
     - [GitHub - pypa/pipx: Install and Run Python Applications in Isolated Environments](https://github.com/pypa/pipx)
 # pipxそのものはどうやってinstallするの？
-- 筆者の場合は、雑にぐぐって雑にinstallして、今まで特に困っていません。
-    - 詳しくは、[[割愛]]
+- 筆者は雑に調査と判断をしました。あとでやりなおす可能性はあります
+
