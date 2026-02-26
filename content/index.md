@@ -62,9 +62,7 @@ title: cat2151's digital garden index
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
 - noteを書こう：
-    - cat-repo-auditor
-        - リポジトリ
-            - [GitHub - cat2151/cat-repo-auditor: WIP](https://github.com/cat2151/cat-repo-auditor)
+    - [[cat-repo-auditor]]
     - Obsidian
         - 構想段階 仮 Templater checkbox-zoom-highlight-sync
             - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mfktu52f6s2z)

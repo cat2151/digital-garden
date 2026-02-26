@@ -1,0 +1,2 @@
+- リポジトリ
+    - [cat-repo-auditor/README.ja.md at main · cat2151/cat-repo-auditor · GitHub](https://github.com/cat2151/cat-repo-auditor/blob/main/README.ja.md)
