@@ -61,22 +61,10 @@ title: cat2151's digital garden index
         - [[cat-file-watcher]]
         - [[cat-github-watcher]]
         - [[cat-clipboard-launcher]]
+    - 実験中や構想中
+        - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - noteを書こう：
-    - Obsidian
-        - 構想段階 仮 Templater checkbox-zoom-highlight-sync
-            - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mfktu52f6s2z)
-            - イメージ
-                - Templater scriptを実行すると、
-                    - 現在行のcheckboxの解除をして、
-                        - 今がzoomなら
-                            - zoom解除
-                            - 次の行に移動して
-                            - zoom
-                        - 今が` == ～ ==`のハイライトなら
-                            - ハイライト解除
-                            - 次の行に移動して
-                            - ハイライト
-    - [[筆者のアプリのうち、実験中の度合いが高いもの]]
+    - 何かあれば
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]

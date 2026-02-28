@@ -1,0 +1,14 @@
+## 構想段階
+- bluesky
+    - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mfktu52f6s2z)
+- イメージ
+    - Templater scriptを実行すると、
+        - 現在行のcheckboxの解除をして、
+            - 今がzoomなら
+                - zoom解除
+                - 次の行に移動して
+                - zoom
+            - 今が` == ～ ==`のハイライトなら
+                - ハイライト解除
+                - 次の行に移動して
+                - ハイライト
