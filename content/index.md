@@ -58,9 +58,14 @@ title: cat2151's digital garden index
     - 格ゲー練習用
         - [[fighting-game-button-challenge]]
     - その他
-        - [[cat-file-watcher]]
-        - [[cat-github-watcher]]
-        - [[cat-clipboard-launcher]]
+        - file監視
+            - [[cat-file-watcher]]
+        - GitHub
+            - [[cat-github-watcher]]
+        - クリップボード操作
+            - [[cat-clipboard-launcher]]
+        - Zenn & Qiita UX改善
+            - [[zenn-qiita-mute-warning]]
     - 実験中や構想中
         - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - noteを書こう：

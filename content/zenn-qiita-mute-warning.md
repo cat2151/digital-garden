@@ -1,0 +1,2 @@
+- Zenn scraps
+    - [ZennやQiitaでミュートしたユーザーの記事を開いたとき、画面上部に警告バナーを表示するChrome拡張を作った](https://zenn.dev/cat2151/scraps/c1a0961e906367)
