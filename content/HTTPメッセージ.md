@@ -1,0 +1,3 @@
+- HTTPメッセージとは
+    - MDNによる説明：
+        - [HTTP メッセージ - HTTP \| MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Guides/Messages)

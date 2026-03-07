@@ -1,3 +1,11 @@
-- [wikiwand.com/en/articles/GitHub](https://www.wikiwand.com/en/articles/GitHub)
-- 筆者のアカウント
-    - [cat2151](https://cat2151.github.io)
+- GitHubとは
+    - Wikipedia
+        - [wikiwand.com/en/articles/GitHub](https://www.wikiwand.com/en/articles/GitHub)
+- （筆者の）用途
+    - input
+        - 全人類の叡智である[[OSS]]を入手する用
+    - output
+        - 自作の[[趣味OSS]]を発表する用
+- 関連
+    - 筆者のアカウント
+        - [cat2151](https://cat2151.github.io)

@@ -1,0 +1,4 @@
+- これはなに？
+    - [[CC BY]]  ライセンスのPiano
+- GitHub
+    - [Salamander Piano - SFZ Instruments](https://sfzinstruments.github.io/pianos/salamander/)
