@@ -69,17 +69,18 @@ title: cat2151's digital garden index
     - 実験中や構想中
         - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - noteを書こう：
-    - [[宣言的なリッチaudioおもちゃ]]
-    - ほか
-        - 何かあれば
-# そのうちやってみよう磨き
+    - ブラウザ
+        - [[bluesky-text-to-audio]]
+# そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
 - 5分+ [[BlueSkyフィード Audio Programming を作る]]
-- 5分 [[思いつき]] からwikino部分を [[思いつき（wikino）]]に切り出す
 - 5分+ 手順を書く： [[Obsidian新規VaultをQuartzとGitHub Pagesでweb公開する]]
-- [[（保留）Quartz バックリンクをページ末尾に移動するか検討する]]
+# あとまわし
 - [[OSS]]に関する主観をnoteに（ふわっとしている）
+- Spotify、このアルバムいいぞ！を書くのはどうかな
+- [[グレッグ・イーガン]]
+- [[（保留）Quartz バックリンクをページ末尾に移動するか検討する]]
 # ナレッジ : どこかMOCに移動するかもしれないコーナー
 - [[Obsidianは2つのVaultを横に並べて編集できる]]
 - [[ObsidianでメインVaultと、ditigal-garden Vaultとの複数Vault運用するときのコツ]]
