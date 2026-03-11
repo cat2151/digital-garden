@@ -1,6 +1,9 @@
 - リポジトリ
     - [quartz-transformer-mmlabc/README.ja.md at main · cat2151/quartz-transformer-mmlabc · GitHub](https://github.com/cat2151/quartz-transformer-mmlabc/blob/main/README.ja.md)
-- [[Quartz 4]] 用
+- 用途
+    - [[Obsidian]] で書いたコード進行を、
+        - [[Quartz 4]] でwebに発表して
+            - 五線譜表示と演奏をする用
 - 機能
     - コード進行を
         - 五線譜表示する
@@ -11,3 +14,5 @@
     - [[abcjs]]
 - Blueskyに進捗を書く用
     - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mbbrbq52hs2m)
+- examples
+    - [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]

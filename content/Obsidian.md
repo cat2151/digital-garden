@@ -4,3 +4,4 @@
 
 # 参考
 - [Obsidianについて書いたArticle一覧](https://minerva.mamansoft.net/%F0%9F%93%98Articles/%F0%9F%93%92Obsidian%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%9B%B8%E3%81%84%E3%81%9FArticle%E4%B8%80%E8%A6%A7)
+

@@ -1,0 +1,10 @@
+- 雑なイメージ
+    - いろいろ意味があります
+        - 例
+            - [[Obsidian]] のlocalデータのセット
+                - 用途
+                    - localに複数のvaultを持つ用途
+                        - 例
+                            - vaultその1 : 自分のprivateを書く用
+                            - vaultその2 : publicな [[digital garden]] として [[Quartz 4]] で公開する用
+                            - ※人によっては同一vaultで、propertyで制御するスタイルもあります。人それぞれ

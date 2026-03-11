@@ -4,7 +4,7 @@
     - 趣味OSS開発を、より楽に、楽しくする用
 - なぜ開発したか
     - これまでの課題
-        - GitHub Copilot Coding Agent の Auto Review 便利ですよね
+        - [[GitHub Copilot Coding Agent]] の Auto Review 便利ですよね
         - だが認知負荷が高い
         - 詳しくは
             - あとでここから持ってくるつもり

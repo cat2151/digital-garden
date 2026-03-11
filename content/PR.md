@@ -1,5 +1,5 @@
-Pull Request
-プルリクエスト
+- Pull Request
+- プルリクエスト
 
 # 用途
 - 複数の人が協力してプログラムを作る用
@@ -40,3 +40,4 @@ Pull Request
     - マージしたら、deleteボタンを押してブランチをdeleteし、PRを自動close
     - ※メリット
         - LLMの生成するcodeは間違っていることがある。レビューすることで品質を確保できる
+

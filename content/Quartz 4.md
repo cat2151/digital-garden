@@ -3,8 +3,17 @@ aliases:
   - quartz
   - Quartz
 ---
-- 用途
-    - [[Obsidian]] の vault を webに公開する用
+- これはなに？
+    - [[static site generator]] の一種です
 - 公式
     - [Welcome to Quartz 4](https://quartz.jzhao.xyz/)
-- この [[digital garden]] は [[Obsidian]] で執筆され、 Quartz 4 でwebpage化されています
+- 用途
+    - [[Obsidian]] の [[vault]] を webに公開する用
+        - 補足
+            - この [[digital garden]] は、
+            - [[Obsidian]] で執筆され、
+            - Quartz 4 でwebpage化されています
+- 特徴
+    - 拡張
+        - 簡単に自作できます
+            - 例 : [[Quartz コード進行を五線譜で表示してクリックで演奏できるようにした]]
