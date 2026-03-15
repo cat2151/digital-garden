@@ -71,6 +71,19 @@ title: cat2151's digital garden index
 - noteを書こう：
     - ブラウザ
         - [[bluesky-text-to-audio]]
+    - 構想中
+        - obsidian-mmlmix リポジトリを作成する
+            - bluesky～のcoreを利用する
+            - 既存のobsidian-mmlabc～を参考にする
+            - ほしいのは？
+                - bluesky～のcoreを使った、Tone.js / mmlabc / chord2mml / YM2151 / Surge XT / ずんだもん の演奏機能
+                    - それらはMMLとtext読み上げであり、プレーンテキストから音をレンダリングする
+        - quartz4-mmlmix リポジトリを作成する
+            - bluesky～のcoreを利用する
+            - 既存のmmlabc～を参考にする
+            - ほしいのは？
+                - obsidian-mmlmix のQuartz 4 版
+                - obsidianで書いたものが、webでpublishされて、webで演奏できる
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
