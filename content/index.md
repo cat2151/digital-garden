@@ -71,6 +71,10 @@ title: cat2151's digital garden index
 - noteを書こう：
     - ブラウザ
         - [[bluesky-text-to-audio]]
+    - norenwake
+        - [norenwake/README.ja.md at main · cat2151/norenwake · GitHub](https://github.com/cat2151/norenwake/blob/main/README.ja.md)
+            - 直近の需要
+                - clap-mml-play-serverはこれを使って暖簾分けで誕生しました
     - 構想中
         - obsidian-mmlmix リポジトリを作成する
             - bluesky～のcoreを利用する
