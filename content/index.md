@@ -69,6 +69,13 @@ title: cat2151's digital garden index
     - 実験中や構想中
         - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - noteを書こう：
+    - own-repo関連
+    - [[mascot-render-server]]
+        - [[psd-viewer-tui]]
+            - ずんだもん
+    - [[voicevox-playground-tui]]
+        - 思考のスピードでずんだもん
+        - [voicevox-playground-tui \| voicevox-playground-tui](https://cat2151.github.io/voicevox-playground-tui/README.ja.html)
     - ブラウザ
         - [[bluesky-text-to-audio]]
     - norenwake
