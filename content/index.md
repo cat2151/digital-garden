@@ -82,6 +82,10 @@ title: cat2151's digital garden index
         - [norenwake/README.ja.md at main · cat2151/norenwake · GitHub](https://github.com/cat2151/norenwake/blob/main/README.ja.md)
             - 直近の需要
                 - clap-mml-play-serverはこれを使って暖簾分けで誕生しました
+    - リポジトリ一覧 （own-repos-curator利用、はてなブログ）
+        - https://cat2151.hatenadiary.jp/entry/2026/04/05/210028
+    - リポジトリ一覧 （own-repos-curator利用、GitHub Pages）
+        - [cat2151's repositories](https://cat2151.github.io/own-repos-curator-data/)
     - 構想中
         - obsidian-mmlmix リポジトリを作成する
             - bluesky～のcoreを利用する
