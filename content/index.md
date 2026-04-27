@@ -99,6 +99,9 @@ title: cat2151's digital garden index
             - ほしいのは？
                 - obsidian-mmlmix のQuartz 4 版
                 - obsidianで書いたものが、webでpublishされて、webで演奏できる
+    - 読んでいます
+        - [Vim にハマる本 — AI 時代の編集入門](https://zenn.dev/hiraoku/books/vim-ni-hamaru)
+            - よさげ！
 # そのうちやってみよう
 - 5分 [[Quartz light dark のカラーをデフォルト以外の例えばgreen系にする]]
 - 5分+ [[Quartz searchの代替として、titleだけを検索対象にした部分一致検索コンポーネントが実現可能か試す]]
