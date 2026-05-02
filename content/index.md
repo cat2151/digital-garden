@@ -69,7 +69,15 @@ title: cat2151's digital garden index
     - 実験中や構想中
         - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - noteを書こう：
-    - own-repo関連
+    - gh-commit-ledger
+    - cat-music-patterns
+    - cmrt-client-playground
+    - own-repos-curator-to-hatena
+    - own-repos-curator
+    - own-repos-curator-data
+    - cat-self-update
+    - claude-chat-code
+    - cat-gh-repo-creator
     - [[mascot-render-server]]
         - [[psd-viewer-tui]]
             - ずんだもん
