@@ -69,27 +69,32 @@ title: cat2151's digital garden index
     - 実験中や構想中
         - [[筆者のアプリのうち、実験中の度合いが高いもの]]
 - noteを書こう：
-    - gh-commit-ledger
-    - cat-music-patterns
-    - cmrt-client-playground
-    - own-repos-curator-to-hatena
-    - own-repos-curator
-    - own-repos-curator-data
-    - cat-self-update
-    - claude-chat-code
-    - cat-gh-repo-creator
-    - [[mascot-render-server]]
-        - [[psd-viewer-tui]]
-            - ずんだもん
-    - [[voicevox-playground-tui]]
-        - 思考のスピードでずんだもん
-        - [voicevox-playground-tui \| voicevox-playground-tui](https://cat2151.github.io/voicevox-playground-tui/README.ja.html)
-    - ブラウザ
-        - [[bluesky-text-to-audio]]
-    - norenwake
+    - [[GitHub]]
+        - [[gh-commit-ledger]]
+        - [[own-repos-curator]]
+            - [[own-repos-curator-data]]
+            - [[own-repos-curator-to-hatena]]
+        - [[cat-self-update]]
+        - [[cat-gh-repo-creator]]
         - [norenwake/README.ja.md at main · cat2151/norenwake · GitHub](https://github.com/cat2151/norenwake/blob/main/README.ja.md)
             - 直近の需要
-                - clap-mml-play-serverはこれを使って暖簾分けで誕生しました
+                - [[clap-mml-play-server]] はこれを使って暖簾分けで誕生しました
+    - バイブコーディング
+        - [[claude-chat-code]]
+    - audio
+        - [[clap-mml-render-tui]]
+            - [[clap-mml-play-server]]
+            - [[cmrt-client-playground]]
+                - [[cat-music-patterns]]
+        - ブラウザ & ずんだもん連携 & [[cmrt]]連携
+            - [[bluesky-text-to-audio]]
+    - ずんだもん
+        - audio
+            - [[voicevox-playground-tui]]
+                - 思考のスピードでずんだもん
+        - visual
+            - [[mascot-render-server]]
+                - [[psd-viewer-tui]]
     - リポジトリ一覧 （own-repos-curator利用、はてなブログ）
         - https://cat2151.hatenadiary.jp/entry/2026/04/05/210028
     - リポジトリ一覧 （own-repos-curator利用、GitHub Pages）
