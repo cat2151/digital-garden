@@ -1,1 +1,16 @@
-編集中
+- GitHub README
+    - [own-repos-curator](https://cat2151.github.io/own-repos-curator/README.ja)
+- これはなに？
+    - エディタ。TUI。
+    - input :
+        - リポジトリ一覧
+    - process :
+        - リポジトリごとの紹介文を編集
+    - output :
+        - [[own-repos-curator-data]]
+            - 書いたリポジトリ紹介を、
+                - GitHub Pagesに自動でデプロイできる
+        - [[own-repos-curator-to-hatena]]
+            - 書いたリポジトリ紹介を、
+                - はてなブログに自動で投稿できる
+
