@@ -1,5 +1,7 @@
 - GitHub README
     - [own-repos-curator](https://cat2151.github.io/own-repos-curator/README.ja)
+- 用途
+    - 多数のリポジトリの紹介文を楽に書く用
 - これはなに？
     - エディタ。TUI。
     - input :
