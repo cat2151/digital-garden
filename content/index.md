@@ -100,6 +100,10 @@ title: cat2151's digital garden index
     - リポジトリ一覧 （own-repos-curator利用、GitHub Pages）
         - [cat2151's repositories](https://cat2151.github.io/own-repos-curator-data/)
     - 構想中
+        - これ
+            - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3mlnvgkyq222s)
+                - 関連アプリ、関連リポジトリを、
+                    - より具体的にここに書いていきましょう
         - obsidian-mmlmix リポジトリを作成する
             - bluesky～のcoreを利用する
             - 既存のobsidian-mmlabc～を参考にする
