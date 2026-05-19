@@ -120,6 +120,7 @@ title: cat2151's digital garden index
         - [Vim にハマる本 — AI 時代の編集入門](https://zenn.dev/hiraoku/books/vim-ni-hamaru)
             - よさげ！
 ## いろいろ
+- [[cat-task-manager]]
 - [[ラバーダッキング]]
 - [[ダックタイピング]]
 ## 編集中
