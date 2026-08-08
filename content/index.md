@@ -128,6 +128,7 @@ title: cat2151's digital garden index
         - Bluesky
             - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3msjpz7ztck2c)
                 - > プラグインホスト～DAWエンジンまわりの理解が浅いので ぐぐっていた
+- [[オキシタケヒコ]]
 ## 編集中
 - [[オーディオグラフ]]
 # そのうちやってみよう
