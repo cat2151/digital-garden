@@ -1,0 +1,8 @@
+- これは何？
+    - [[DAW]]
+- URL
+    - 公式
+        - [REAPER \| Audio Production Without Limits](https://www.reaper.fm/)
+- install
+    - 解説
+        - [最速！猫でもインストールできるDAWとオーディオプラグイン（仮想MIDI鍵盤で音を鳴らすまで） - cat2151's diary](https://cat2151.hatenadiary.jp/entry/2026/03/12/225148)

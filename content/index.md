@@ -123,6 +123,11 @@ title: cat2151's digital garden index
 - [[cat-task-manager]]
 - [[ラバーダッキング]]
 - [[ダックタイピング]]
+- [[Traction Engine]]
+    - 関連
+        - Bluesky
+            - [@cat2151.bsky.social on Bluesky](https://bsky.app/profile/cat2151.bsky.social/post/3msjpz7ztck2c)
+                - > プラグインホスト～DAWエンジンまわりの理解が浅いので ぐぐっていた
 ## 編集中
 - [[オーディオグラフ]]
 # そのうちやってみよう

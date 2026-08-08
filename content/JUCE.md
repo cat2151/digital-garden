@@ -1,0 +1,5 @@
+- これは何？
+    - [[オーディオ・アプリケーション・フレームワーク]]
+- URL
+    - 公式
+        - [GitHub - juce-framework/JUCE: JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins. · GitHub](https://github.com/juce-framework/JUCE)

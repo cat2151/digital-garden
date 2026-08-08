@@ -1,0 +1,5 @@
+- [[オーディオプラグイン]] 規格の一つ
+    - [[VSTインストゥルメント]] よりも新しい
+- URL
+    - 公式
+        - [GitHub - free-audio/clap: Audio Plugin API · GitHub](https://github.com/free-audio/clap)
