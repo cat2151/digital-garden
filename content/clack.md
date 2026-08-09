@@ -1,0 +1,7 @@
+- これは何？
+    - [[CLAP]] の [[Rust]] バインディング
+- URL
+    - 公式
+        - [GitHub - prokopyl/clack: Safe, low-level wrapper to create CLAP audio plugins and hosts in Rust · GitHub](https://github.com/prokopyl/clack)
+- clackを利用したアプリ
+    - [[clap-mml-render-tui]] と [[clap-mml-play-server]]

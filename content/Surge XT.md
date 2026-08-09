@@ -1,0 +1,10 @@
+- URL
+    - 公式
+        - [Surge](https://surge-synthesizer.github.io/)
+- これは何？
+    - [[ソフトシンセ]]
+        - [[オーディオプラグイン]]
+            - [[VSTインストゥルメント]]
+            - [[CLAP]]
+- install
+    - [最速！猫でもインストールできるDAWとオーディオプラグイン（仮想MIDI鍵盤で音を鳴らすまで） - cat2151's diary](https://cat2151.hatenadiary.jp/entry/2026/03/12/225148)

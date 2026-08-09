@@ -3,3 +3,5 @@
 - URL
     - 公式
         - [GitHub - free-audio/clap: Audio Plugin API · GitHub](https://github.com/free-audio/clap)
+- Rustから使いたい場合
+    - [[clack]]

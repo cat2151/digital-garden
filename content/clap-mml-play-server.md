@@ -1,1 +1,10 @@
-編集中
+- URL
+    - [clap-mml-play-server/README.ja.md at main · cat2151/clap-mml-play-server · GitHub](https://github.com/cat2151/clap-mml-play-server/blob/main/README.ja.md)
+- これは何？
+    - [[DAWエンジン]]
+        - というには小規模
+            - 規模でいうと [[プラグインホスト]] に近い
+    - できること
+        - [[Surge XT]] を鳴らせます
+    - 仕組み
+        - [[プロセス間通信]] で [[clap-mml-render-tui]] から呼び出されます
