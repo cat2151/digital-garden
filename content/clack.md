@@ -5,3 +5,24 @@
         - [GitHub - prokopyl/clack: Safe, low-level wrapper to create CLAP audio plugins and hosts in Rust · GitHub](https://github.com/prokopyl/clack)
 - clackを利用したアプリ
     - [[clap-mml-render-tui]] と [[clap-mml-play-server]]
+## clackだけでは不足した例、時間管理フレームワーク
+- [[clap-mml-render-tui]] と [[clap-mml-play-server]]
+    - grid sequencer画面において、
+        - モタりが発生した
+    - 原因
+        - そもそもclack（CLAP API）には、
+        - 抽象化された時間管理フレームワークがない
+    - 分析
+        - よって、
+        - 雑なタイミングでAPIを呼ぶような、
+        - モタるような実装ができてしまう
+    - 対策
+        - clack（CLAP API）を使って
+            - [[プラグインホスト]] の試作品を作ってみるときは、
+            - 自前で時間管理フレームワークを構築する必要がある
+        - もし、より上位階層の抽象的なことをやりたいなら、
+            - [[プラグインホスト]] の試作品を作るかわりに、
+            - [[DAWエンジン]] や
+            - [[オーディオ・アプリケーション・フレームワーク]] を
+            - 使うのも選択肢となる
+            - その場合は、時間管理フレームワークがそれらに入っている想定
