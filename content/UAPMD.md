@@ -1,0 +1,15 @@
+- これは何？
+    - [[プラグインホスト]]
+        - ※多機能化につれ、
+            - [[オーディオ・アプリケーション・フレームワーク]]
+            - [[DAWエンジン]]
+            - の要素も備えつつあるように見受けられる
+- 名前
+    - U : Ubiquitous
+    - AP : Audio Plugin
+    - MD : MIDI Device
+- URL
+    - 公式
+        - [GitHub - atsushieno/uapmd: A liberal plugin hosting library (VST3/AU/LV2/CLAP/AAP/WebCLAP) with fully-featured MIDI 2.0 (UMP + MIDI-CI) frontend where applicable. Create virtual MIDI 2.0 devices using your favorite plugins. · GitHub](https://github.com/atsushieno/uapmd)
+    - 参考
+        - [Webで動作するオーディオプラグインホストをWebCLAPフォーマットに対応させる](https://zenn.dev/atsushieno/articles/2abca4a0bcc837)
