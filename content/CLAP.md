@@ -5,3 +5,15 @@
         - [GitHub - free-audio/clap: Audio Plugin API · GitHub](https://github.com/free-audio/clap)
 - Rustから使いたい場合
     - [[clack]]
+- 用途、メリット
+    - アプリを作るのが楽
+        - [[clack]] を使ってサクサクとアプリを作って遊べる
+    - ほかメリットがいっぱい
+        - 後発であるぶん、いろいろな点が改善されている
+            - 詳しくはweb検索してください
+- 新しいことによる課題
+    - CLAP対応していない [[オーディオプラグイン]] や [[DAW]] がある
+    - CLAP対応オーディオプラグインでも、
+        - CLAPの プリセット一覧取得API `preset-discovery` などに対応していないことがある
+            - [clap/include/clap/factory/preset-discovery.h at main · free-audio/clap · GitHub](https://github.com/free-audio/clap/blob/main/include/clap/factory/preset-discovery.h)
+            - ※というより普通は対応していない、くらいの感触、2026年現在

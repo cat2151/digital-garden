@@ -1,1 +1,26 @@
-編集中
+- URL
+    - GitHub
+        - [clap-mml-render-tui/README.ja.md at main · cat2151/clap-mml-render-tui · GitHub](https://github.com/cat2151/clap-mml-render-tui/blob/main/README.ja.md)
+- これは何？
+    - [[DAW]] のようなもの
+        - [[プラグインホスト]]
+            - 手軽に [[オーディオプラグイン]] のリッチな音が鳴らせるおもちゃです
+- 用途
+    - [[MML]] で [[オーディオプラグイン]] の音色を鳴らして遊ぶ用
+    - 手軽にリッチな音を鳴らす用
+        - 関連
+            - [[宣言的なリッチaudioおもちゃ]]
+                - にはまだ到達していませんが、
+                    - やや近い位置にいます
+    - カジュアルにインストールする用。RustがあるだけでOK
+- できること
+     - [[MML]] で手軽に音楽
+     - TUIで手軽に素早く操作
+     - 鳴らせる楽器
+          - [Surge XT](https://surge-synthesizer.github.io/) / [Dexed](https://asb2m10.github.io/dexed/) / [Vaporizer2](https://www.vast-dynamics.com/?q=Vaporizer2) / [Floe](https://floe.audio/) / [Sforzando](https://www.plogue.com/products/sforzando.html) / [Six Sines](https://github.com/baconpaul/six-sines) / [TyrellN6](https://u-he.com/products/tyrelln6/)
+     - 鳴らせるエフェクタ
+          - [TONE3000](https://www.tone3000.com/) / [Dragonfly Reverb](https://michaelwillis.github.io/dragonfly-reverb/) / [Voyage Voyage](https://www.musicalentropy.com/VoyageVoyage.html) / [Shu](https://mikey.audio/shu)
+     - 手軽にいろいろなギター奏法で遊べる（開発中）
+          -  [METAL-GTX](https://unreal-instruments.wixsite.com/unreal-instruments/metal-gtx) 
+- 関連
+    - [[clap-mml-play-server]]
